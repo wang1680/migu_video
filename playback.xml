@@ -853,13 +853,13 @@
         <title lang="zh">本集提要-小城大事-第19集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260119113000 +0800" stop="20260119122355 +0800">
-        <title lang="zh">小城大事19/40</title>
+        <title lang="zh">小城大事第19集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260119122355 +0800" stop="20260119122855 +0800">
         <title lang="zh">本集提要-小城大事-第20集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260119122855 +0800" stop="20260119132030 +0800">
-        <title lang="zh">小城大事20/40</title>
+        <title lang="zh">小城大事第20集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260119132030 +0800" stop="20260119132530 +0800">
         <title lang="zh">本集提要-人民的选择-第17集</title>
@@ -1801,7 +1801,7 @@
         <title lang="zh">暖暖的幸福第14集</title>
     </programme>
     <programme channel="CCTV4美洲" start="20260119091320 +0800" stop="20260119100000 +0800">
-        <title lang="zh">暖暖的幸福第15集</title>
+        <title lang="zh">精彩音乐汇（海外版）-2026-19</title>
     </programme>
     <programme channel="CCTV4美洲" start="20260119100000 +0800" stop="20260119103200 +0800">
         <title lang="zh">中国新闻</title>
@@ -4347,7 +4347,7 @@
     <programme channel="辽宁卫视" start="20260119144000 +0800" stop="20260119151500 +0800">
         <title lang="zh">纪录片：毛泽东书信故事</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260119151500 +0800" stop="20260119160000 +0800">
+    <programme channel="辽宁卫视" start="20260119151500 +0800" stop="20260119160800 +0800">
         <title lang="zh">欢乐点点</title>
     </programme>
     <channel id="河北卫视">
@@ -4518,7 +4518,7 @@
     <programme channel="河北卫视" start="20260119153000 +0800" stop="20260119153500 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260119153500 +0800" stop="20260119160000 +0800">
+    <programme channel="河北卫视" start="20260119153500 +0800" stop="20260119160500 +0800">
         <title lang="zh">永远的行走</title>
     </programme>
     <channel id="江西卫视">
