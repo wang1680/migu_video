@@ -877,7 +877,7 @@
         <title lang="zh">小城大事21/40</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260120122355 +0800" stop="20260120122855 +0800">
-        <title lang="zh">本集提要-小城大事-22/40</title>
+        <title lang="zh">本集提要-小城大事-第22集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260120122855 +0800" stop="20260120132030 +0800">
         <title lang="zh">小城大事22/40</title>
@@ -886,13 +886,13 @@
         <title lang="zh">本集提要-人民的选择-第19集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260120132530 +0800" stop="20260120141515 +0800">
-        <title lang="zh">人民的选择19/26</title>
+        <title lang="zh">人民的选择第19集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260120141515 +0800" stop="20260120141700 +0800">
         <title lang="zh">本集提要-人民的选择-第20集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260120141700 +0800" stop="20260120150700 +0800">
-        <title lang="zh">人民的选择20/26</title>
+        <title lang="zh">人民的选择第20集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260120150700 +0800" stop="20260120155300 +0800">
         <title lang="zh">扫毒风暴第25集</title>
@@ -4608,7 +4608,7 @@
     <programme channel="河北卫视" start="20260120153000 +0800" stop="20260120153500 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260120153500 +0800" stop="20260120160000 +0800">
+    <programme channel="河北卫视" start="20260120153500 +0800" stop="20260120160500 +0800">
         <title lang="zh">永远的行走</title>
     </programme>
     <channel id="江西卫视">
