@@ -285,13 +285,16 @@
     <programme channel="CCTV3综艺" start="20260123065545 +0800" stop="20260123085025 +0800">
         <title lang="zh">和美之夜2025-播出版</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260123085025 +0800" stop="20260123095345 +0800">
+    <programme channel="CCTV3综艺" start="20260123085025 +0800" stop="20260123094550 +0800">
         <title lang="zh">综艺喜乐汇-2025-1111</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260123095345 +0800" stop="20260123112150 +0800">
+    <programme channel="CCTV3综艺" start="20260123094550 +0800" stop="20260123095645 +0800">
+        <title lang="zh">国家宝藏-周游季-111</title>
+    </programme>
+    <programme channel="CCTV3综艺" start="20260123095645 +0800" stop="20260123112450 +0800">
         <title lang="zh">越战越勇-2026-3</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260123112150 +0800" stop="20260123113000 +0800">
+    <programme channel="CCTV3综艺" start="20260123112450 +0800" stop="20260123113000 +0800">
         <title lang="zh">国家宝藏-周游季-124</title>
     </programme>
     <programme channel="CCTV3综艺" start="20260123113000 +0800" stop="20260123144245 +0800">
@@ -862,13 +865,13 @@
         <title lang="zh">本集提要-小城大事-第27集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260123113000 +0800" stop="20260123122355 +0800">
-        <title lang="zh">小城大事27/40</title>
+        <title lang="zh">小城大事第27集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260123122355 +0800" stop="20260123122855 +0800">
         <title lang="zh">本集提要-小城大事-第28集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260123122855 +0800" stop="20260123132030 +0800">
-        <title lang="zh">小城大事28/40</title>
+        <title lang="zh">小城大事第28集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260123132030 +0800" stop="20260123132530 +0800">
         <title lang="zh">本集提要-人民的选择-第24集</title>
@@ -4365,7 +4368,7 @@
     <programme channel="辽宁卫视" start="20260123150300 +0800" stop="20260123155500 +0800">
         <title lang="zh">欢乐点点</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260123155500 +0800" stop="20260123160000 +0800">
+    <programme channel="辽宁卫视" start="20260123155500 +0800" stop="20260123162500 +0800">
         <title lang="zh">纪录片</title>
     </programme>
     <channel id="河北卫视">
