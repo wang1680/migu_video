@@ -91,7 +91,7 @@
         <title lang="zh">前情提要-太平年-第7集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260126125800 +0800" stop="20260126135020 +0800">
-        <title lang="zh">太平年7/48</title>
+        <title lang="zh">太平年第7集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260126135020 +0800" stop="20260126140000 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
@@ -100,7 +100,7 @@
         <title lang="zh">晚间新闻</title>
     </programme>
     <programme channel="CCTV1综合" start="20260126143440 +0800" stop="20260126152555 +0800">
-        <title lang="zh">太平年8/48</title>
+        <title lang="zh">太平年第8集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260126152555 +0800" stop="20260126155900 +0800">
         <title lang="zh">山水间的家（第四季）-8</title>
@@ -295,10 +295,10 @@
         <title lang="zh">2026年开门迎春晚-3</title>
     </programme>
     <programme channel="CCTV3综艺" start="20260126150035 +0800" stop="20260126154635 +0800">
-        <title lang="zh">综艺喜乐汇-2023-1554 什刹海 2/37</title>
+        <title lang="zh">综艺喜乐汇-2026-62 什刹海 2/37</title>
     </programme>
     <programme channel="CCTV3综艺" start="20260126154635 +0800" stop="20260126155900 +0800">
-        <title lang="zh">综艺喜乐汇-2023-1555 什刹海 3/37</title>
+        <title lang="zh">综艺喜乐汇-2026-63 什刹海 3/37</title>
     </programme>
     <channel id="CCTV4中文国际">
         <display-name lang="zh">CCTV4中文国际</display-name>
