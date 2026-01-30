@@ -486,10 +486,10 @@
     <programme channel="CCTV5体育" start="20260130030000 +0800" stop="20260130033000 +0800">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260130033000 +0800" stop="20260130090000 +0800">
+    <programme channel="CCTV5体育" start="20260130033000 +0800" stop="20260130093000 +0800">
         <title lang="zh">2026年澳大利亚网球公开赛-男单半决赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260130090000 +0800" stop="20260130100000 +0800">
+    <programme channel="CCTV5体育" start="20260130093000 +0800" stop="20260130100000 +0800">
         <title lang="zh">运动一起赢</title>
     </programme>
     <programme channel="CCTV5体育" start="20260130100000 +0800" stop="20260130103500 +0800">
@@ -1347,13 +1347,13 @@
     <programme channel="CCTV13新闻" start="20260130130000 +0800" stop="20260130133000 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260130133000 +0800" stop="20260130140000 +0800">
+    <programme channel="CCTV13新闻" start="20260130133000 +0800" stop="20260130135700 +0800">
         <title lang="zh">高端访谈</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260130140000 +0800" stop="20260130143000 +0800">
+    <programme channel="CCTV13新闻" start="20260130135700 +0800" stop="20260130142700 +0800">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260130143000 +0800" stop="20260130150000 +0800">
+    <programme channel="CCTV13新闻" start="20260130142700 +0800" stop="20260130150000 +0800">
         <title lang="zh">国际时讯</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260130150000 +0800" stop="20260130155900 +0800">
