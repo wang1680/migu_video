@@ -106,13 +106,13 @@
         <title lang="zh">前情提要-太平年-第29集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260205120600 +0800" stop="20260205125635 +0800">
-        <title lang="zh">太平年29/48</title>
+        <title lang="zh">太平年第29集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260205125635 +0800" stop="20260205130115 +0800">
         <title lang="zh">前情提要-太平年-第30集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260205130115 +0800" stop="20260205134900 +0800">
-        <title lang="zh">太平年30/48</title>
+        <title lang="zh">太平年第30集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260205134900 +0800" stop="20260205140000 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
@@ -121,7 +121,7 @@
         <title lang="zh">晚间新闻</title>
     </programme>
     <programme channel="CCTV1综合" start="20260205143425 +0800" stop="20260205152625 +0800">
-        <title lang="zh">太平年31/48</title>
+        <title lang="zh">太平年第31集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260205152625 +0800" stop="20260205155900 +0800">
         <title lang="zh">非遗里的中国（第四季）-4</title>
@@ -865,28 +865,28 @@
         <title lang="zh">星推荐-2026年2月-5</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260205112700 +0800" stop="20260205113000 +0800">
-        <title lang="zh">本集提要-生命树-13/40</title>
+        <title lang="zh">本集提要-生命树-第13集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260205113000 +0800" stop="20260205122455 +0800">
         <title lang="zh">生命树13/40</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260205122455 +0800" stop="20260205122955 +0800">
-        <title lang="zh">本集提要-生命树-14/40</title>
+        <title lang="zh">本集提要-生命树-第14集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260205122955 +0800" stop="20260205132225 +0800">
         <title lang="zh">生命树14/40</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260205132225 +0800" stop="20260205132725 +0800">
-        <title lang="zh">本集提要-唐宫奇案之青雾风鸣-1/34</title>
+        <title lang="zh">本集提要-唐宫奇案之青雾风鸣-第1集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260205132725 +0800" stop="20260205141710 +0800">
         <title lang="zh">唐宫奇案之青雾风鸣1/34</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260205141710 +0800" stop="20260205141855 +0800">
-        <title lang="zh">本集提要-唐宫奇案之青雾风鸣-2/34</title>
+        <title lang="zh">本集提要-唐宫奇案之青雾风鸣-第2集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260205141855 +0800" stop="20260205150855 +0800">
-        <title lang="zh">唐宫奇案之青雾风鸣2/34</title>
+        <title lang="zh">唐宫奇案之青雾风鸣第2集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260205150855 +0800" stop="20260205155455 +0800">
         <title lang="zh">风雨送春归第24集</title>
@@ -3015,7 +3015,7 @@
     <programme channel="中学生" start="20260205145700 +0800" stop="20260205150000 +0800">
         <title lang="zh">中央新影中学生频道2025年宣传片（第一版）</title>
     </programme>
-    <programme channel="中学生" start="20260205150000 +0800" stop="20260205160000 +0800">
+    <programme channel="中学生" start="20260205150000 +0800" stop="20260206000000 +0800">
         <title lang="zh">《第三届中视美育杯艺术盛典》第四期</title>
     </programme>
     <channel id="CGTN">
