@@ -502,19 +502,19 @@
         <title lang="zh">实况录像-精品赛事记录-2025/2026赛季单板滑雪世界杯 女子U型场地中国队比赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20260206073000 +0800" stop="20260206080000 +0800">
-        <title lang="zh">2026年米兰科尔蒂纳冬奥会及冬残奥会转播报道-奔向米兰-5（4K）</title>
+        <title lang="zh">2026年米兰-科尔蒂纳冬奥会及冬残奥会转播报道-奔向米兰-5（4K）</title>
     </programme>
     <programme channel="CCTV5体育" start="20260206080000 +0800" stop="20260206101800 +0800">
-        <title lang="zh">2026年米兰科尔蒂纳冬奥会-花样滑冰团体</title>
+        <title lang="zh">2026年米兰-科尔蒂纳冬奥会-花样滑冰团体</title>
     </programme>
     <programme channel="CCTV5体育" start="20260206101800 +0800" stop="20260206103000 +0800">
         <title lang="zh">体育新闻</title>
     </programme>
     <programme channel="CCTV5体育" start="20260206103000 +0800" stop="20260206140000 +0800">
-        <title lang="zh">2026年米兰科尔蒂纳冬奥会-花样滑冰团体</title>
+        <title lang="zh">2026年米兰-科尔蒂纳冬奥会-花样滑冰团体</title>
     </programme>
     <programme channel="CCTV5体育" start="20260206140000 +0800" stop="20260206155900 +0800">
-        <title lang="zh">体育世界-米兰冬奥会开幕式特别节目</title>
+        <title lang="zh">体育世界-米兰-科尔蒂纳冬奥会开幕式特别节目</title>
     </programme>
     <channel id="CCTV5+体育赛事">
         <display-name lang="zh">CCTV5+体育赛事</display-name>
