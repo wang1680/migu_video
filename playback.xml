@@ -591,14 +591,8 @@
     <programme channel="CCTV6电影" start="20260210162605 +0800" stop="20260210175722 +0800">
         <title lang="zh">不动声色</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260210175722 +0800" stop="20260210200206 +0800">
+    <programme channel="CCTV6电影" start="20260210175722 +0800" stop="20260210215621 +0800">
         <title lang="zh">戏杀</title>
-    </programme>
-    <programme channel="CCTV6电影" start="20260210200206 +0800" stop="20260210203714 +0800">
-        <title lang="zh">金克森姆（上）</title>
-    </programme>
-    <programme channel="CCTV6电影" start="20260210203714 +0800" stop="20260210215621 +0800">
-        <title lang="zh">金克森姆（下）</title>
     </programme>
     <programme channel="CCTV6电影" start="20260210215621 +0800" stop="20260210221030 +0800">
         <title lang="zh">爱情麻辣烫-高圆圆 赵淼</title>
@@ -892,7 +886,7 @@
         <title lang="zh">本集提要-唐宫奇案之青雾风鸣-第14集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260211141855 +0800" stop="20260211150855 +0800">
-        <title lang="zh">唐宫奇案之青雾风鸣14/34</title>
+        <title lang="zh">唐宫奇案之青雾风鸣第14集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260211150855 +0800" stop="20260211155455 +0800">
         <title lang="zh">星辰大海第26集</title>
@@ -3837,7 +3831,7 @@
     <programme channel="辽宁广播电视台体育休闲频道" start="20260211143300 +0800" stop="20260211155400 +0800">
         <title lang="zh">智慧斗士</title>
     </programme>
-    <programme channel="辽宁广播电视台体育休闲频道" start="20260211155400 +0800" stop="20260211160000 +0800">
+    <programme channel="辽宁广播电视台体育休闲频道" start="20260211155400 +0800" stop="20260211174100 +0800">
         <title lang="zh">实况录像</title>
     </programme>
     <channel id="东方卫视">
@@ -3978,7 +3972,7 @@
     <programme channel="东方卫视" start="20260211152300 +0800" stop="20260211153800 +0800">
         <title lang="zh">毛泽东书信故事(8):宽严相济</title>
     </programme>
-    <programme channel="东方卫视" start="20260211153800 +0800" stop="20260211160000 +0800">
+    <programme channel="东方卫视" start="20260211153800 +0800" stop="20260211163700 +0800">
         <title lang="zh">画眉(3)</title>
     </programme>
     <channel id="江苏卫视">
@@ -4272,7 +4266,7 @@
     <programme channel="北京卫视" start="20260211141700 +0800" stop="20260211145900 +0800">
         <title lang="zh">红星剧场:装台(29)</title>
     </programme>
-    <programme channel="北京卫视" start="20260211145900 +0800" stop="20260211160000 +0800">
+    <programme channel="北京卫视" start="20260211145900 +0800" stop="20260211160900 +0800">
         <title lang="zh">红星剧场:装台(30)</title>
     </programme>
     <channel id="辽宁卫视">
@@ -5775,7 +5769,7 @@
     <programme channel="兵团卫视" start="20260211151500 +0800" stop="20260211155000 +0800">
         <title lang="zh">纪录片</title>
     </programme>
-    <programme channel="兵团卫视" start="20260211155000 +0800" stop="20260211160000 +0800">
+    <programme channel="兵团卫视" start="20260211155000 +0800" stop="20260211165600 +0800">
         <title lang="zh">剧场:悬崖</title>
     </programme>
     <channel id="宁夏卫视">
@@ -5895,7 +5889,7 @@
     <programme channel="宁夏卫视" start="20260211141500 +0800" stop="20260211151000 +0800">
         <title lang="zh">侦察英雄(10)</title>
     </programme>
-    <programme channel="宁夏卫视" start="20260211151000 +0800" stop="20260211160000 +0800">
+    <programme channel="宁夏卫视" start="20260211151000 +0800" stop="20260211164500 +0800">
         <title lang="zh">侦察英雄(11)</title>
     </programme>
     <channel id="重庆卫视">
@@ -6009,7 +6003,7 @@
     <programme channel="重庆卫视" start="20260211144400 +0800" stop="20260211153200 +0800">
         <title lang="zh">企业风云路</title>
     </programme>
-    <programme channel="重庆卫视" start="20260211153200 +0800" stop="20260211160000 +0800">
+    <programme channel="重庆卫视" start="20260211153200 +0800" stop="20260211163000 +0800">
         <title lang="zh">午夜剧场:追风者(36)</title>
     </programme>
     <channel id="三沙卫视">
@@ -9186,7 +9180,7 @@
     <programme channel="辽宁广播电视台生活频道" start="20260211145000 +0800" stop="20260211153200 +0800">
         <title lang="zh">大城小事</title>
     </programme>
-    <programme channel="辽宁广播电视台生活频道" start="20260211153200 +0800" stop="20260211160000 +0800">
+    <programme channel="辽宁广播电视台生活频道" start="20260211153200 +0800" stop="20260211162600 +0800">
         <title lang="zh">名师高徒</title>
     </programme>
     <channel id="辽宁广播电视台影视剧频道">
@@ -9396,7 +9390,7 @@
     <programme channel="辽宁广播电视台影视剧频道" start="20260211155600 +0800" stop="20260211155700 +0800">
         <title lang="zh">推介</title>
     </programme>
-    <programme channel="辽宁广播电视台影视剧频道" start="20260211155700 +0800" stop="20260211160000 +0800">
+    <programme channel="辽宁广播电视台影视剧频道" start="20260211155700 +0800" stop="20260211163500 +0800">
         <title lang="zh">冒牌英雄(36)</title>
     </programme>
     <channel id="宁夏广播电视台文旅频道">
@@ -9438,7 +9432,7 @@
     <programme channel="宁夏广播电视台文旅频道" start="20260211135500 +0800" stop="20260211141000 +0800">
         <title lang="zh">天天旅行汇</title>
     </programme>
-    <programme channel="宁夏广播电视台文旅频道" start="20260211141000 +0800" stop="20260211160000 +0800">
+    <programme channel="宁夏广播电视台文旅频道" start="20260211141000 +0800" stop="20260211183000 +0800">
         <title lang="zh">星空影院</title>
     </programme>
     <channel id="宁夏广播电视台经济频道">
@@ -10599,7 +10593,7 @@
     <programme channel="山东教育" start="20260211143500 +0800" stop="20260211150700 +0800">
         <title lang="zh">孔子大学堂</title>
     </programme>
-    <programme channel="山东教育" start="20260211150700 +0800" stop="20260211160000 +0800">
+    <programme channel="山东教育" start="20260211150700 +0800" stop="20260211165500 +0800">
         <title lang="zh">红色影像馆</title>
     </programme>
     <channel id="熊猫频道01高清">
