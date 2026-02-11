@@ -87,10 +87,10 @@
     <programme channel="CCTV1综合" start="20260211113955 +0800" stop="20260211120600 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260211120600 +0800" stop="20260211134715 +0800">
+    <programme channel="CCTV1综合" start="20260211120600 +0800" stop="20260211134950 +0800">
         <title lang="zh">马到成功·中国年-1</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260211134715 +0800" stop="20260211140000 +0800">
+    <programme channel="CCTV1综合" start="20260211134950 +0800" stop="20260211140000 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
     <programme channel="CCTV1综合" start="20260211140000 +0800" stop="20260211143540 +0800">
@@ -865,22 +865,22 @@
         <title lang="zh">星推荐-2026年2月-11</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260211112700 +0800" stop="20260211113000 +0800">
-        <title lang="zh">本集提要-生命树-25/40</title>
+        <title lang="zh">本集提要-生命树-第25集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260211113000 +0800" stop="20260211122455 +0800">
-        <title lang="zh">生命树25/40</title>
+        <title lang="zh">生命树第25集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260211122455 +0800" stop="20260211122955 +0800">
-        <title lang="zh">本集提要-生命树-26/40</title>
+        <title lang="zh">本集提要-生命树-第26集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260211122955 +0800" stop="20260211132225 +0800">
-        <title lang="zh">生命树26/40</title>
+        <title lang="zh">生命树第26集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260211132225 +0800" stop="20260211132725 +0800">
         <title lang="zh">本集提要-唐宫奇案之青雾风鸣-第13集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260211132725 +0800" stop="20260211141710 +0800">
-        <title lang="zh">唐宫奇案之青雾风鸣13/34</title>
+        <title lang="zh">唐宫奇案之青雾风鸣第13集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260211141710 +0800" stop="20260211141855 +0800">
         <title lang="zh">本集提要-唐宫奇案之青雾风鸣-第14集</title>
@@ -4548,7 +4548,7 @@
     <programme channel="河北卫视" start="20260211154700 +0800" stop="20260211155200 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260211155200 +0800" stop="20260211160000 +0800">
+    <programme channel="河北卫视" start="20260211155200 +0800" stop="20260211162200 +0800">
         <title lang="zh">城市烟火</title>
     </programme>
     <channel id="江西卫视">
