@@ -54,13 +54,10 @@
     <programme channel="CCTV1综合" start="20260217030421 +0800" stop="20260217034746 +0800">
         <title lang="zh">2026年春节联欢晚会-5/8</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260217034746 +0800" stop="20260217040000 +0800">
+    <programme channel="CCTV1综合" start="20260217034746 +0800" stop="20260217045152 +0800">
         <title lang="zh">2026年春节联欢晚会-6/8</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260217040000 +0800" stop="20260217043000 +0800">
-        <title lang="zh">新闻30分</title>
-    </programme>
-    <programme channel="CCTV1综合" start="20260217043000 +0800" stop="20260217052543 +0800">
+    <programme channel="CCTV1综合" start="20260217045152 +0800" stop="20260217052543 +0800">
         <title lang="zh">2026年春节联欢晚会-7/8</title>
     </programme>
     <programme channel="CCTV1综合" start="20260217052543 +0800" stop="20260217055509 +0800">
