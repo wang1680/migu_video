@@ -549,14 +549,11 @@
     <programme channel="CCTV5体育" start="20260220121000 +0800" stop="20260220123000 +0800">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪女子障碍追逐铜牌赛、决赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260220123000 +0800" stop="20260220140000 +0800">
+    <programme channel="CCTV5体育" start="20260220123000 +0800" stop="20260220141900 +0800">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪男子空中技巧决赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260220140000 +0800" stop="20260220143000 +0800">
+    <programme channel="CCTV5体育" start="20260220141900 +0800" stop="20260220153000 +0800">
         <title lang="zh">体育世界-全景米兰</title>
-    </programme>
-    <programme channel="CCTV5体育" start="20260220143000 +0800" stop="20260220153000 +0800">
-        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 花样滑冰女单自由滑</title>
     </programme>
     <programme channel="CCTV5体育" start="20260220153000 +0800" stop="20260220155900 +0800">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 速度滑冰 女子1500米1-8</title>
