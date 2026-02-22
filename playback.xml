@@ -519,8 +519,11 @@
     <programme channel="CCTV5体育" start="20260222060500 +0800" stop="20260222063000 +0800">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 自由式滑雪男子障碍追逐决赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260222063000 +0800" stop="20260222080000 +0800">
+    <programme channel="CCTV5体育" start="20260222063000 +0800" stop="20260222070000 +0800">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 速度滑冰男子、女子集体出发</title>
+    </programme>
+    <programme channel="CCTV5体育" start="20260222070000 +0800" stop="20260222080000 +0800">
+        <title lang="zh">2026年米兰科尔蒂纳冬奥会及冬残奥会转播报道-破冰吧！冠军</title>
     </programme>
     <programme channel="CCTV5体育" start="20260222080000 +0800" stop="20260222090000 +0800">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 花样滑冰 表演滑</title>
