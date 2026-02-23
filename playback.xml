@@ -3741,7 +3741,7 @@
     <programme channel="辽宁广播电视台体育休闲频道" start="20260223143600 +0800" stop="20260223155300 +0800">
         <title lang="zh">智慧斗士</title>
     </programme>
-    <programme channel="辽宁广播电视台体育休闲频道" start="20260223155300 +0800" stop="20260223160000 +0800">
+    <programme channel="辽宁广播电视台体育休闲频道" start="20260223155300 +0800" stop="20260223173300 +0800">
         <title lang="zh">实况录像</title>
     </programme>
     <channel id="东方卫视">
@@ -3882,7 +3882,7 @@
     <programme channel="东方卫视" start="20260223145800 +0800" stop="20260223155700 +0800">
         <title lang="zh">中国文学艺术界2026春节大联欢</title>
     </programme>
-    <programme channel="东方卫视" start="20260223155700 +0800" stop="20260223160000 +0800">
+    <programme channel="东方卫视" start="20260223155700 +0800" stop="20260223170300 +0800">
         <title lang="zh">中国文学艺术界2026春节大联欢</title>
     </programme>
     <channel id="江苏卫视">
@@ -4218,7 +4218,7 @@
     <programme channel="北京卫视" start="20260223141100 +0800" stop="20260223151100 +0800">
         <title lang="zh">2026北京广播电视台春节联欢晚会</title>
     </programme>
-    <programme channel="北京卫视" start="20260223151100 +0800" stop="20260223160000 +0800">
+    <programme channel="北京卫视" start="20260223151100 +0800" stop="20260223175200 +0800">
         <title lang="zh">2026北京广播电视台春节联欢晚会</title>
     </programme>
     <channel id="辽宁卫视">
@@ -5832,7 +5832,7 @@
     <programme channel="兵团卫视" start="20260223151500 +0800" stop="20260223154900 +0800">
         <title lang="zh">家国记忆(108)</title>
     </programme>
-    <programme channel="兵团卫视" start="20260223154900 +0800" stop="20260223160000 +0800">
+    <programme channel="兵团卫视" start="20260223154900 +0800" stop="20260223172200 +0800">
         <title lang="zh">生命的火花</title>
     </programme>
     <channel id="宁夏卫视">
@@ -5952,7 +5952,7 @@
     <programme channel="宁夏卫视" start="20260223141500 +0800" stop="20260223151500 +0800">
         <title lang="zh">2026新疆国际春节联欢晚会</title>
     </programme>
-    <programme channel="宁夏卫视" start="20260223151500 +0800" stop="20260223160000 +0800">
+    <programme channel="宁夏卫视" start="20260223151500 +0800" stop="20260223164500 +0800">
         <title lang="zh">2026新疆国际春节联欢晚会</title>
     </programme>
     <channel id="重庆卫视">
@@ -6090,7 +6090,7 @@
     <programme channel="重庆卫视" start="20260223154900 +0800" stop="20260223155500 +0800">
         <title lang="zh">风景区气象服务</title>
     </programme>
-    <programme channel="重庆卫视" start="20260223155500 +0800" stop="20260223160000 +0800">
+    <programme channel="重庆卫视" start="20260223155500 +0800" stop="20260223164500 +0800">
         <title lang="zh">苍狼(1)</title>
     </programme>
     <channel id="三沙卫视">
@@ -9183,7 +9183,7 @@
     <programme channel="辽宁广播电视台公共频道" start="20260223143000 +0800" stop="20260223150000 +0800">
         <title lang="zh">凡人歌</title>
     </programme>
-    <programme channel="辽宁广播电视台公共频道" start="20260223150000 +0800" stop="20260223160000 +0800">
+    <programme channel="辽宁广播电视台公共频道" start="20260223150000 +0800" stop="20260223160500 +0800">
         <title lang="zh">凡人歌</title>
     </programme>
     <channel id="辽宁广播电视台生活频道">
@@ -9270,7 +9270,7 @@
     <programme channel="辽宁广播电视台生活频道" start="20260223134000 +0800" stop="20260223153200 +0800">
         <title lang="zh">大城小事</title>
     </programme>
-    <programme channel="辽宁广播电视台生活频道" start="20260223153200 +0800" stop="20260223160000 +0800">
+    <programme channel="辽宁广播电视台生活频道" start="20260223153200 +0800" stop="20260223162600 +0800">
         <title lang="zh">名师高徒</title>
     </programme>
     <channel id="辽宁广播电视台影视剧频道">
@@ -9522,7 +9522,7 @@
     <programme channel="辽宁广播电视台影视剧频道" start="20260223155600 +0800" stop="20260223155700 +0800">
         <title lang="zh">推介</title>
     </programme>
-    <programme channel="辽宁广播电视台影视剧频道" start="20260223155700 +0800" stop="20260223160000 +0800">
+    <programme channel="辽宁广播电视台影视剧频道" start="20260223155700 +0800" stop="20260223163500 +0800">
         <title lang="zh">尖刀之风雷诀(44)</title>
     </programme>
     <channel id="宁夏广播电视台文旅频道">
@@ -9564,7 +9564,7 @@
     <programme channel="宁夏广播电视台文旅频道" start="20260223135500 +0800" stop="20260223141000 +0800">
         <title lang="zh">天天旅行汇</title>
     </programme>
-    <programme channel="宁夏广播电视台文旅频道" start="20260223141000 +0800" stop="20260223160000 +0800">
+    <programme channel="宁夏广播电视台文旅频道" start="20260223141000 +0800" stop="20260223183000 +0800">
         <title lang="zh">星空影院</title>
     </programme>
     <channel id="宁夏广播电视台经济频道">
@@ -10683,7 +10683,7 @@
     <programme channel="山东教育" start="20260223145200 +0800" stop="20260223152400 +0800">
         <title lang="zh">孔子大学堂</title>
     </programme>
-    <programme channel="山东教育" start="20260223152400 +0800" stop="20260223160000 +0800">
+    <programme channel="山东教育" start="20260223152400 +0800" stop="20260223165500 +0800">
         <title lang="zh">红色影像馆</title>
     </programme>
     <channel id="熊猫频道01高清">
