@@ -109,13 +109,13 @@
         <title lang="zh">前情提要-好好的时光-第11集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260304120200 +0800" stop="20260304125420 +0800">
-        <title lang="zh">好好的时光11/40</title>
+        <title lang="zh">好好的时光第11集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260304125420 +0800" stop="20260304125715 +0800">
-        <title lang="zh">前情提要-好好的时光-12/40</title>
+        <title lang="zh">前情提要-好好的时光-第12集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260304125715 +0800" stop="20260304135225 +0800">
-        <title lang="zh">好好的时光12/40</title>
+        <title lang="zh">好好的时光第12集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260304135225 +0800" stop="20260304140000 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
@@ -1338,22 +1338,16 @@
     <programme channel="CCTV13新闻" start="20260304020000 +0800" stop="20260304030000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260304030000 +0800" stop="20260304040000 +0800">
+    <programme channel="CCTV13新闻" start="20260304030000 +0800" stop="20260304034500 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260304040000 +0800" stop="20260304043400 +0800">
-        <title lang="zh">新闻30分</title>
-    </programme>
-    <programme channel="CCTV13新闻" start="20260304043400 +0800" stop="20260304050000 +0800">
-        <title lang="zh">法治在线</title>
-    </programme>
-    <programme channel="CCTV13新闻" start="20260304050000 +0800" stop="20260304060000 +0800">
+    <programme channel="CCTV13新闻" start="20260304034500 +0800" stop="20260304053000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260304060000 +0800" stop="20260304070000 +0800">
+    <programme channel="CCTV13新闻" start="20260304053000 +0800" stop="20260304054500 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260304070000 +0800" stop="20260304080000 +0800">
+    <programme channel="CCTV13新闻" start="20260304054500 +0800" stop="20260304080000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260304080000 +0800" stop="20260304090000 +0800">
@@ -1482,25 +1476,16 @@
     <programme channel="CCTV15音乐" start="20260304031330 +0800" stop="20260304042900 +0800">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-9</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260304042900 +0800" stop="20260304045741 +0800">
-        <title lang="zh">2026年元宵晚会-1/4</title>
-    </programme>
-    <programme channel="CCTV15音乐" start="20260304045741 +0800" stop="20260304052827 +0800">
-        <title lang="zh">2026年元宵晚会-2/4</title>
-    </programme>
-    <programme channel="CCTV15音乐" start="20260304052827 +0800" stop="20260304055346 +0800">
-        <title lang="zh">2026年元宵晚会-3/4</title>
-    </programme>
-    <programme channel="CCTV15音乐" start="20260304055346 +0800" stop="20260304063030 +0800">
-        <title lang="zh">2026年元宵晚会-4/4</title>
-    </programme>
-    <programme channel="CCTV15音乐" start="20260304063030 +0800" stop="20260304085900 +0800">
+    <programme channel="CCTV15音乐" start="20260304042900 +0800" stop="20260304065730 +0800">
         <title lang="zh">影视留声机-2026-24-经典电影欣赏《上甘岭》</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260304085900 +0800" stop="20260304101430 +0800">
+    <programme channel="CCTV15音乐" start="20260304065730 +0800" stop="20260304085700 +0800">
+        <title lang="zh">2025开播吧！国潮-2</title>
+    </programme>
+    <programme channel="CCTV15音乐" start="20260304085700 +0800" stop="20260304101230 +0800">
         <title lang="zh">民歌·中国-2026-13春风携暖总关情3</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260304101430 +0800" stop="20260304113000 +0800">
+    <programme channel="CCTV15音乐" start="20260304101230 +0800" stop="20260304113000 +0800">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-63</title>
     </programme>
     <programme channel="CCTV15音乐" start="20260304113000 +0800" stop="20260304124430 +0800">
@@ -4626,7 +4611,7 @@
     <programme channel="河北卫视" start="20260304153000 +0800" stop="20260304153500 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260304153500 +0800" stop="20260304160000 +0800">
+    <programme channel="河北卫视" start="20260304153500 +0800" stop="20260304163000 +0800">
         <title lang="zh">生万物原版(4）</title>
     </programme>
     <channel id="江西卫视">
@@ -9744,31 +9729,31 @@
     <programme channel="CHC影迷电影" start="20260303233500 +0800" stop="20260304014600 +0800">
         <title lang="zh">加勒比海盗4：惊涛怪浪</title>
     </programme>
-    <programme channel="CHC影迷电影" start="20260304014600 +0800" stop="20260304032800 +0800">
-        <title lang="zh">密战</title>
+    <programme channel="CHC影迷电影" start="20260304014600 +0800" stop="20260304031800 +0800">
+        <title lang="zh">蔡李佛拳</title>
     </programme>
-    <programme channel="CHC影迷电影" start="20260304032800 +0800" stop="20260304045200 +0800">
+    <programme channel="CHC影迷电影" start="20260304031800 +0800" stop="20260304044200 +0800">
         <title lang="zh">精灵旅社4:变身大冒险</title>
     </programme>
-    <programme channel="CHC影迷电影" start="20260304045200 +0800" stop="20260304065500 +0800">
+    <programme channel="CHC影迷电影" start="20260304044200 +0800" stop="20260304064500 +0800">
         <title lang="zh">逆行人生</title>
     </programme>
-    <programme channel="CHC影迷电影" start="20260304065500 +0800" stop="20260304084200 +0800">
-        <title lang="zh">神秘海域</title>
+    <programme channel="CHC影迷电影" start="20260304064500 +0800" stop="20260304083400 +0800">
+        <title lang="zh">师父</title>
     </programme>
-    <programme channel="CHC影迷电影" start="20260304084200 +0800" stop="20260304102200 +0800">
+    <programme channel="CHC影迷电影" start="20260304083400 +0800" stop="20260304101400 +0800">
         <title lang="zh">聊斋新传之奇女子</title>
     </programme>
-    <programme channel="CHC影迷电影" start="20260304102200 +0800" stop="20260304114900 +0800">
-        <title lang="zh">破战</title>
+    <programme channel="CHC影迷电影" start="20260304101400 +0800" stop="20260304115000 +0800">
+        <title lang="zh">神探驾到</title>
     </programme>
-    <programme channel="CHC影迷电影" start="20260304114900 +0800" stop="20260304140000 +0800">
+    <programme channel="CHC影迷电影" start="20260304115000 +0800" stop="20260304140000 +0800">
         <title lang="zh">热辣滚烫</title>
     </programme>
-    <programme channel="CHC影迷电影" start="20260304140000 +0800" stop="20260304153400 +0800">
+    <programme channel="CHC影迷电影" start="20260304140000 +0800" stop="20260304153300 +0800">
         <title lang="zh">农民院士</title>
     </programme>
-    <programme channel="CHC影迷电影" start="20260304153400 +0800" stop="20260304173300 +0800">
+    <programme channel="CHC影迷电影" start="20260304153300 +0800" stop="20260304173300 +0800">
         <title lang="zh">关于我妈的一切</title>
     </programme>
     <channel id="CHC动作电影">
