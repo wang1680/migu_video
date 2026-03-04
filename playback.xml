@@ -1632,26 +1632,29 @@
     <programme channel="CCTV4欧洲" start="20260304054500 +0800" stop="20260304074500 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260304074500 +0800" stop="20260304082800 +0800">
+    <programme channel="CCTV4欧洲" start="20260304074500 +0800" stop="20260304081100 +0800">
         <title lang="zh">走遍中国-2026-5</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260304082800 +0800" stop="20260304085600 +0800">
+    <programme channel="CCTV4欧洲" start="20260304081100 +0800" stop="20260304083900 +0800">
         <title lang="zh">记住乡愁2026-6</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260304085600 +0800" stop="20260304091100 +0800">
+    <programme channel="CCTV4欧洲" start="20260304083900 +0800" stop="20260304085400 +0800">
         <title lang="zh">平凡匠心-2025-32</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260304091100 +0800" stop="20260304093700 +0800">
+    <programme channel="CCTV4欧洲" start="20260304085400 +0800" stop="20260304092000 +0800">
         <title lang="zh">走遍中国-2026-1</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260304093700 +0800" stop="20260304095200 +0800">
+    <programme channel="CCTV4欧洲" start="20260304092000 +0800" stop="20260304093500 +0800">
         <title lang="zh">平凡匠心-2025-63</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260304095200 +0800" stop="20260304095600 +0800">
+    <programme channel="CCTV4欧洲" start="20260304093500 +0800" stop="20260304093900 +0800">
         <title lang="zh">记住乡愁-片段展播-2024-2</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260304095600 +0800" stop="20260304100000 +0800">
+    <programme channel="CCTV4欧洲" start="20260304093900 +0800" stop="20260304094300 +0800">
         <title lang="zh">记住乡愁-片段展播-2024-6</title>
+    </programme>
+    <programme channel="CCTV4欧洲" start="20260304094300 +0800" stop="20260304100000 +0800">
+        <title lang="zh">平凡匠心-2026-18</title>
     </programme>
     <programme channel="CCTV4欧洲" start="20260304100000 +0800" stop="20260304110000 +0800">
         <title lang="zh">中国新闻</title>
