@@ -48,31 +48,28 @@
     <programme channel="CCTV1综合" start="20260305033740 +0800" stop="20260305034000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260305034000 +0800" stop="20260305040000 +0800">
+    <programme channel="CCTV1综合" start="20260305034000 +0800" stop="20260305040300 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260305040000 +0800" stop="20260305042545 +0800">
+    <programme channel="CCTV1综合" start="20260305040300 +0800" stop="20260305043930 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260305042545 +0800" stop="20260305043430 +0800">
-        <title lang="zh">新闻30分</title>
-    </programme>
-    <programme channel="CCTV1综合" start="20260305043430 +0800" stop="20260305050845 +0800">
+    <programme channel="CCTV1综合" start="20260305043930 +0800" stop="20260305050845 +0800">
         <title lang="zh">今日说法-2026-36</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260305050845 +0800" stop="20260305055630 +0800">
+    <programme channel="CCTV1综合" start="20260305050845 +0800" stop="20260305060130 +0800">
         <title lang="zh">纯真年代的爱情第10集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260305055630 +0800" stop="20260305064515 +0800">
+    <programme channel="CCTV1综合" start="20260305060130 +0800" stop="20260305065015 +0800">
         <title lang="zh">纯真年代的爱情第11集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260305064515 +0800" stop="20260305073415 +0800">
+    <programme channel="CCTV1综合" start="20260305065015 +0800" stop="20260305073715 +0800">
         <title lang="zh">纯真年代的爱情第12集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260305073415 +0800" stop="20260305082415 +0800">
+    <programme channel="CCTV1综合" start="20260305073715 +0800" stop="20260305082715 +0800">
         <title lang="zh">纯真年代的爱情第13集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260305082415 +0800" stop="20260305091800 +0800">
+    <programme channel="CCTV1综合" start="20260305082715 +0800" stop="20260305091800 +0800">
         <title lang="zh">纯真年代的爱情第14集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260305091800 +0800" stop="20260305104930 +0800">
@@ -91,13 +88,13 @@
         <title lang="zh">前情提要-好好的时光-第13集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260305120400 +0800" stop="20260305125405 +0800">
-        <title lang="zh">好好的时光13/40</title>
+        <title lang="zh">好好的时光第13集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260305125405 +0800" stop="20260305125710 +0800">
         <title lang="zh">前情提要-好好的时光-第14集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260305125710 +0800" stop="20260305135240 +0800">
-        <title lang="zh">好好的时光14/40</title>
+        <title lang="zh">好好的时光第14集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260305135240 +0800" stop="20260305140000 +0800">
         <title lang="zh">非遗里的中国-MV</title>
@@ -357,16 +354,10 @@
     <programme channel="CCTV4中文国际" start="20260304230000 +0800" stop="20260304234500 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260304234500 +0800" stop="20260305034000 +0800">
+    <programme channel="CCTV4中文国际" start="20260304234500 +0800" stop="20260305040210 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260305034000 +0800" stop="20260305035200 +0800">
-        <title lang="zh">远方的家-传世古建-6</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20260305035200 +0800" stop="20260305040000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-44</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20260305040000 +0800" stop="20260305060315 +0800">
+    <programme channel="CCTV4中文国际" start="20260305040210 +0800" stop="20260305060315 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20260305060315 +0800" stop="20260305064930 +0800">
@@ -1341,10 +1332,10 @@
     <programme channel="CCTV13新闻" start="20260304234500 +0800" stop="20260305034000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260305034000 +0800" stop="20260305040000 +0800">
+    <programme channel="CCTV13新闻" start="20260305034000 +0800" stop="20260305040300 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260305040000 +0800" stop="20260305043400 +0800">
+    <programme channel="CCTV13新闻" start="20260305040300 +0800" stop="20260305043400 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260305043400 +0800" stop="20260305050000 +0800">
@@ -1503,13 +1494,13 @@
     <programme channel="CCTV15音乐" start="20260305113000 +0800" stop="20260305124430 +0800">
         <title lang="zh">诗意山河-1</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260305124430 +0800" stop="20260305142500 +0800">
-        <title lang="zh">影视留声机-2026-46-经典电影欣赏《雷锋》欣赏</title>
+    <programme channel="CCTV15音乐" start="20260305124430 +0800" stop="20260305141500 +0800">
+        <title lang="zh">中国乡村音乐大会-一乐千年篇（无商务版）</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260305142500 +0800" stop="20260305154030 +0800">
+    <programme channel="CCTV15音乐" start="20260305141500 +0800" stop="20260305153030 +0800">
         <title lang="zh">精彩音乐汇-我的爱对你说-2025-413</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260305154030 +0800" stop="20260305155900 +0800">
+    <programme channel="CCTV15音乐" start="20260305153030 +0800" stop="20260305155900 +0800">
         <title lang="zh">金声玉振——中国器乐大会-精编一</title>
     </programme>
     <channel id="CCTV17农业农村">
@@ -1647,16 +1638,10 @@
     <programme channel="CCTV4欧洲" start="20260304230000 +0800" stop="20260304234500 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260304234500 +0800" stop="20260305034000 +0800">
+    <programme channel="CCTV4欧洲" start="20260304234500 +0800" stop="20260305040200 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260305034000 +0800" stop="20260305035200 +0800">
-        <title lang="zh">远方的家-传世古建-6</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20260305035200 +0800" stop="20260305040000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2025-2</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20260305040000 +0800" stop="20260305060000 +0800">
+    <programme channel="CCTV4欧洲" start="20260305040200 +0800" stop="20260305060000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
     <programme channel="CCTV4欧洲" start="20260305060000 +0800" stop="20260305064500 +0800">
@@ -1767,16 +1752,10 @@
     <programme channel="CCTV4美洲" start="20260304230000 +0800" stop="20260304234500 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260304234500 +0800" stop="20260305034000 +0800">
+    <programme channel="CCTV4美洲" start="20260304234500 +0800" stop="20260305040200 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260305034000 +0800" stop="20260305035200 +0800">
-        <title lang="zh">远方的家-传世古建-6</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20260305035200 +0800" stop="20260305040000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2025-1</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20260305040000 +0800" stop="20260305060000 +0800">
+    <programme channel="CCTV4美洲" start="20260305040200 +0800" stop="20260305060000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
     <programme channel="CCTV4美洲" start="20260305060000 +0800" stop="20260305063000 +0800">
