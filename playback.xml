@@ -54,10 +54,10 @@
     <programme channel="CCTV1综合" start="20260305040300 +0800" stop="20260305043930 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260305043930 +0800" stop="20260305050845 +0800">
+    <programme channel="CCTV1综合" start="20260305043930 +0800" stop="20260305051445 +0800">
         <title lang="zh">今日说法-2026-36</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260305050845 +0800" stop="20260305060130 +0800">
+    <programme channel="CCTV1综合" start="20260305051445 +0800" stop="20260305060130 +0800">
         <title lang="zh">纯真年代的爱情第10集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260305060130 +0800" stop="20260305065015 +0800">
@@ -726,38 +726,35 @@
     <programme channel="CCTV7国防军事" start="20260305035330 +0800" stop="20260305040000 +0800">
         <title lang="zh">国防微视频-军歌嘹亮-强军战歌（2026海军）</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20260305040000 +0800" stop="20260305043630 +0800">
+    <programme channel="CCTV7国防军事" start="20260305040000 +0800" stop="20260305044630 +0800">
         <title lang="zh">正午国防军事</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20260305043630 +0800" stop="20260305051030 +0800">
+    <programme channel="CCTV7国防军事" start="20260305044630 +0800" stop="20260305051830 +0800">
         <title lang="zh">防务新观察-2026-63</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20260305051030 +0800" stop="20260305053930 +0800">
+    <programme channel="CCTV7国防军事" start="20260305051830 +0800" stop="20260305054630 +0800">
         <title lang="zh">军营的味道-2026-9</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20260305053930 +0800" stop="20260305060630 +0800">
+    <programme channel="CCTV7国防军事" start="20260305054630 +0800" stop="20260305061130 +0800">
         <title lang="zh">兵器面面观-2026-45</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20260305060630 +0800" stop="20260305063400 +0800">
+    <programme channel="CCTV7国防军事" start="20260305061130 +0800" stop="20260305063900 +0800">
         <title lang="zh">军事纪录-2026-40</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20260305063400 +0800" stop="20260305072430 +0800">
+    <programme channel="CCTV7国防军事" start="20260305063900 +0800" stop="20260305072930 +0800">
         <title lang="zh">绝密使命10/32</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20260305072430 +0800" stop="20260305081330 +0800">
+    <programme channel="CCTV7国防军事" start="20260305072930 +0800" stop="20260305081830 +0800">
         <title lang="zh">绝密使命11/32</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20260305081330 +0800" stop="20260305090430 +0800">
+    <programme channel="CCTV7国防军事" start="20260305081830 +0800" stop="20260305090830 +0800">
         <title lang="zh">绝密使命12/32</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20260305090430 +0800" stop="20260305093130 +0800">
+    <programme channel="CCTV7国防军事" start="20260305090830 +0800" stop="20260305093330 +0800">
         <title lang="zh">世界战史-2026-41</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20260305093130 +0800" stop="20260305095630 +0800">
+    <programme channel="CCTV7国防军事" start="20260305093330 +0800" stop="20260305100230 +0800">
         <title lang="zh">军事纪录-2026-41</title>
-    </programme>
-    <programme channel="CCTV7国防军事" start="20260305095630 +0800" stop="20260305100230 +0800">
-        <title lang="zh">国防微视频-军歌嘹亮-春满四海（2026海军）</title>
     </programme>
     <programme channel="CCTV7国防军事" start="20260305100230 +0800" stop="20260305102830 +0800">
         <title lang="zh">兵器面面观-2026-46</title>
@@ -1335,10 +1332,10 @@
     <programme channel="CCTV13新闻" start="20260305034000 +0800" stop="20260305040300 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260305040300 +0800" stop="20260305043400 +0800">
+    <programme channel="CCTV13新闻" start="20260305040300 +0800" stop="20260305043900 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260305043400 +0800" stop="20260305050000 +0800">
+    <programme channel="CCTV13新闻" start="20260305043900 +0800" stop="20260305050000 +0800">
         <title lang="zh">法治在线</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260305050000 +0800" stop="20260305060000 +0800">
@@ -4578,7 +4575,7 @@
     <programme channel="河北卫视" start="20260305153000 +0800" stop="20260305153500 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260305153500 +0800" stop="20260305160000 +0800">
+    <programme channel="河北卫视" start="20260305153500 +0800" stop="20260305163000 +0800">
         <title lang="zh">生万物原版(12）</title>
     </programme>
     <channel id="江西卫视">
