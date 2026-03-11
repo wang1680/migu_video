@@ -82,13 +82,13 @@
         <title lang="zh">前情提要-好好的时光-第21集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260311120300 +0800" stop="20260311125410 +0800">
-        <title lang="zh">好好的时光21/40</title>
+        <title lang="zh">好好的时光第21集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260311125410 +0800" stop="20260311125650 +0800">
         <title lang="zh">前情提要-好好的时光-第22集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260311125650 +0800" stop="20260311135250 +0800">
-        <title lang="zh">好好的时光22/40</title>
+        <title lang="zh">好好的时光第22集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260311135250 +0800" stop="20260311140000 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
@@ -853,13 +853,13 @@
         <title lang="zh">本集提要-我的山与海-第9集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260311113000 +0800" stop="20260311122555 +0800">
-        <title lang="zh">我的山与海9/30</title>
+        <title lang="zh">我的山与海第9集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260311122555 +0800" stop="20260311123055 +0800">
         <title lang="zh">本集提要-我的山与海-第10集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260311123055 +0800" stop="20260311132455 +0800">
-        <title lang="zh">我的山与海10/30</title>
+        <title lang="zh">我的山与海第10集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260311132455 +0800" stop="20260311132955 +0800">
         <title lang="zh">本集提要-驻站-第8集</title>
@@ -4575,7 +4575,7 @@
     <programme channel="河北卫视" start="20260311154000 +0800" stop="20260311154400 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260311154400 +0800" stop="20260311160000 +0800">
+    <programme channel="河北卫视" start="20260311154400 +0800" stop="20260311160900 +0800">
         <title lang="zh">城市烟火</title>
     </programme>
     <channel id="江西卫视">
