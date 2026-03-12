@@ -97,16 +97,16 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme channel="CCTV1综合" start="20260312120040 +0800" stop="20260312120300 +0800">
-        <title lang="zh">前情提要-好好的时光-23/40</title>
+        <title lang="zh">前情提要-好好的时光-第23集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260312120300 +0800" stop="20260312125350 +0800">
-        <title lang="zh">好好的时光23/40</title>
+        <title lang="zh">好好的时光第23集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260312125350 +0800" stop="20260312125710 +0800">
-        <title lang="zh">前情提要-好好的时光-24/40</title>
+        <title lang="zh">前情提要-好好的时光-第24集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260312125710 +0800" stop="20260312135225 +0800">
-        <title lang="zh">好好的时光24/40</title>
+        <title lang="zh">好好的时光第24集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260312135225 +0800" stop="20260312140000 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
@@ -865,7 +865,7 @@
         <title lang="zh">本集提要-我的山与海-第11集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260312113000 +0800" stop="20260312122555 +0800">
-        <title lang="zh">我的山与海11/30</title>
+        <title lang="zh">我的山与海第11集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260312122555 +0800" stop="20260312123055 +0800">
         <title lang="zh">本集提要-我的山与海-第12集</title>
@@ -1074,22 +1074,19 @@
     <programme channel="CCTV10科教" start="20260312123200 +0800" stop="20260312132030 +0800">
         <title lang="zh">探索·发现-2026-71</title>
     </programme>
-    <programme channel="CCTV10科教" start="20260312132030 +0800" stop="20260312134800 +0800">
+    <programme channel="CCTV10科教" start="20260312132030 +0800" stop="20260312144500 +0800">
+        <title lang="zh">闪亮的名字2025-最美自然守护者发布仪式</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20260312144500 +0800" stop="20260312151030 +0800">
         <title lang="zh">创新进行时-2026-51</title>
     </programme>
-    <programme channel="CCTV10科教" start="20260312134800 +0800" stop="20260312144000 +0800">
-        <title lang="zh">2026大千世界-20</title>
-    </programme>
-    <programme channel="CCTV10科教" start="20260312144000 +0800" stop="20260312151200 +0800">
-        <title lang="zh">地理·中国-2026-71</title>
-    </programme>
-    <programme channel="CCTV10科教" start="20260312151200 +0800" stop="20260312152530 +0800">
+    <programme channel="CCTV10科教" start="20260312151030 +0800" stop="20260312152030 +0800">
         <title lang="zh">时尚科技秀-2026-71</title>
     </programme>
-    <programme channel="CCTV10科教" start="20260312152530 +0800" stop="20260312155530 +0800">
+    <programme channel="CCTV10科教" start="20260312152030 +0800" stop="20260312155030 +0800">
         <title lang="zh">实验现场-2026-10</title>
     </programme>
-    <programme channel="CCTV10科教" start="20260312155530 +0800" stop="20260312155900 +0800">
+    <programme channel="CCTV10科教" start="20260312155030 +0800" stop="20260312155900 +0800">
         <title lang="zh">透视新科技-2026-21</title>
     </programme>
     <channel id="CCTV11戏曲">
