@@ -429,16 +429,16 @@
     <programme channel="CCTV5体育" start="20260315000300 +0800" stop="20260315003000 +0800">
         <title lang="zh">实况录像-2026年体操世界杯 科特布斯站 25分钟版</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260315003000 +0800" stop="20260315030000 +0800">
+    <programme channel="CCTV5体育" start="20260315003000 +0800" stop="20260315033000 +0800">
         <title lang="zh">2025/2026赛季美国职业篮球联赛-常规赛（掘金-湖人）</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260315030000 +0800" stop="20260315040000 +0800">
+    <programme channel="CCTV5体育" start="20260315033000 +0800" stop="20260315035000 +0800">
         <title lang="zh">WTT重庆冠军赛2026-半决赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260315040000 +0800" stop="20260315041500 +0800">
+    <programme channel="CCTV5体育" start="20260315035000 +0800" stop="20260315040600 +0800">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260315041500 +0800" stop="20260315065500 +0800">
+    <programme channel="CCTV5体育" start="20260315040600 +0800" stop="20260315065500 +0800">
         <title lang="zh">WTT重庆冠军赛2026-半决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20260315065500 +0800" stop="20260315090000 +0800">
