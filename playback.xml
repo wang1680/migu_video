@@ -1872,10 +1872,10 @@
     <programme channel="CGTN外语纪录" start="20260317023000 +0800" stop="20260317030000 +0800">
         <title lang="zh">历史传奇</title>
     </programme>
-    <programme channel="CGTN外语纪录" start="20260317030000 +0800" stop="20260317040000 +0800">
-        <title lang="zh">精彩放送</title>
+    <programme channel="CGTN外语纪录" start="20260317030000 +0800" stop="20260317033000 +0800">
+        <title lang="zh">人文地理</title>
     </programme>
-    <programme channel="CGTN外语纪录" start="20260317040000 +0800" stop="20260317043000 +0800">
+    <programme channel="CGTN外语纪录" start="20260317033000 +0800" stop="20260317043000 +0800">
         <title lang="zh">人文地理</title>
     </programme>
     <programme channel="CGTN外语纪录" start="20260317043000 +0800" stop="20260317050000 +0800">
@@ -5454,7 +5454,7 @@
     <programme channel="东南卫视" start="20260317150000 +0800" stop="20260317151300 +0800">
         <title lang="zh">东南晚报</title>
     </programme>
-    <programme channel="东南卫视" start="20260317151300 +0800" stop="20260317160000 +0800">
+    <programme channel="东南卫视" start="20260317151300 +0800" stop="20260317160600 +0800">
         <title lang="zh">新大众文艺的“在场”力量（上）</title>
     </programme>
     <channel id="海南卫视">
