@@ -558,10 +558,10 @@
     <programme channel="CCTV5+体育赛事" start="20260318093000 +0800" stop="20260318110000 +0800">
         <title lang="zh">2026年世界女子冰壶锦标赛-循环赛10 B道（美国队—中国队）（录播）</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260318110000 +0800" stop="20260318130000 +0800">
+    <programme channel="CCTV5+体育赛事" start="20260318110000 +0800" stop="20260318123300 +0800">
         <title lang="zh">2025/2026赛季中国排球超级联赛-女子总决赛排位赛（河南双汇—浙江西塘姚庄）</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260318130000 +0800" stop="20260318143500 +0800">
+    <programme channel="CCTV5+体育赛事" start="20260318123300 +0800" stop="20260318143500 +0800">
         <title lang="zh">2025/2026赛季斯诺克世界公开赛-第3轮2</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260318143500 +0800" stop="20260318153500 +0800">
@@ -4482,7 +4482,7 @@
     <programme channel="辽宁卫视" start="20260318150100 +0800" stop="20260318152800 +0800">
         <title lang="zh">纪录片</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260318152800 +0800" stop="20260318160000 +0800">
+    <programme channel="辽宁卫视" start="20260318152800 +0800" stop="20260318162400 +0800">
         <title lang="zh">欢乐点点</title>
     </programme>
     <channel id="河北卫视">
@@ -4623,7 +4623,7 @@
     <programme channel="河北卫视" start="20260318153000 +0800" stop="20260318153800 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260318153800 +0800" stop="20260318160000 +0800">
+    <programme channel="河北卫视" start="20260318153800 +0800" stop="20260318162300 +0800">
         <title lang="zh">中国经济圆桌会(26001）</title>
     </programme>
     <channel id="江西卫视">
