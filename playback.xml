@@ -78,11 +78,11 @@
     <programme channel="CCTV1综合" start="20260319091315 +0800" stop="20260319100515 +0800">
         <title lang="zh">第一动画乐园-2026-66</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260319100515 +0800" stop="20260319101945 +0800">
+    <programme channel="CCTV1综合" start="20260319100515 +0800" stop="20260319102045 +0800">
         <title lang="zh">第一动画乐园-2026-67</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260319101945 +0800" stop="20260319105045 +0800">
-        <title lang="zh">人文名镇-福建五夫</title>
+    <programme channel="CCTV1综合" start="20260319102045 +0800" stop="20260319105045 +0800">
+        <title lang="zh">农耕探文明-2025-14</title>
     </programme>
     <programme channel="CCTV1综合" start="20260319105045 +0800" stop="20260319110000 +0800">
         <title lang="zh">秘境之眼-2026-64</title>
@@ -4173,7 +4173,7 @@
     <programme channel="广东卫视" start="20260319150500 +0800" stop="20260319154000 +0800">
         <title lang="zh">哈尔滨一九四四(40)</title>
     </programme>
-    <programme channel="广东卫视" start="20260319154000 +0800" stop="20260319160000 +0800">
+    <programme channel="广东卫视" start="20260319154000 +0800" stop="20260319170000 +0800">
         <title lang="zh">南粤4K画卷</title>
     </programme>
     <channel id="北京卫视">
@@ -4602,7 +4602,7 @@
     <programme channel="河北卫视" start="20260319153000 +0800" stop="20260319153800 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260319153800 +0800" stop="20260319160000 +0800">
+    <programme channel="河北卫视" start="20260319153800 +0800" stop="20260319160300 +0800">
         <title lang="zh">城市烟火</title>
     </programme>
     <channel id="江西卫视">
@@ -11097,16 +11097,10 @@
     <programme channel="嘉佳卡通" start="20260318160000 +0800" stop="20260318220000 +0800">
         <title lang="zh">喜羊羊与灰太狼之心世界奇遇</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260318220000 +0800" stop="20260319001200 +0800">
-        <title lang="zh">猪猪侠之竞速小英雄(七)</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20260319001200 +0800" stop="20260319011200 +0800">
+    <programme channel="嘉佳卡通" start="20260318220000 +0800" stop="20260319011400 +0800">
         <title lang="zh">猪猪侠之竞速小英雄(五)</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260319011200 +0800" stop="20260319022100 +0800">
-        <title lang="zh">萌鸡小队(二)</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20260319022100 +0800" stop="20260319030600 +0800">
+    <programme channel="嘉佳卡通" start="20260319011400 +0800" stop="20260319030600 +0800">
         <title lang="zh">萌鸡小队(三)</title>
     </programme>
     <programme channel="嘉佳卡通" start="20260319030600 +0800" stop="20260319051500 +0800">
@@ -11118,19 +11112,28 @@
     <programme channel="嘉佳卡通" start="20260319071300 +0800" stop="20260319080000 +0800">
         <title lang="zh">超级飞侠(十九)</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260319080000 +0800" stop="20260319093700 +0800">
+    <programme channel="嘉佳卡通" start="20260319080000 +0800" stop="20260319082300 +0800">
         <title lang="zh">奇妙萌可之闪耀流星</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260319093700 +0800" stop="20260319105900 +0800">
+    <programme channel="嘉佳卡通" start="20260319082300 +0800" stop="20260319093400 +0800">
+        <title lang="zh">奇妙萌可之魔法甜心</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260319093400 +0800" stop="20260319112900 +0800">
         <title lang="zh">奶龙搞怪大作战(二)</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260319105900 +0800" stop="20260319131600 +0800">
-        <title lang="zh">喜羊羊与灰太狼之疯狂超能营</title>
+    <programme channel="嘉佳卡通" start="20260319112900 +0800" stop="20260319120400 +0800">
+        <title lang="zh">超级飞侠(十九)</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260319131600 +0800" stop="20260319131900 +0800">
-        <title lang="zh">嗨!小喇叭-湛江文博讲解员颁奖仪式</title>
+    <programme channel="嘉佳卡通" start="20260319120400 +0800" stop="20260319131500 +0800">
+        <title lang="zh">喜羊羊与灰太狼之心世界奇遇</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260319131900 +0800" stop="20260319160000 +0800">
+    <programme channel="嘉佳卡通" start="20260319131500 +0800" stop="20260319131800 +0800">
+        <title lang="zh">嗨!小喇叭-防溺水主题</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260319131800 +0800" stop="20260319135500 +0800">
+        <title lang="zh">喜羊羊与灰太狼之心世界奇遇</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260319135500 +0800" stop="20260319160000 +0800">
         <title lang="zh">猪猪侠之竞速小英雄(一)</title>
     </programme>
     <channel id="经典动画大集合">
