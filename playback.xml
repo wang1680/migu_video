@@ -93,22 +93,22 @@
     <programme channel="CCTV1综合" start="20260325110000 +0800" stop="20260325113825 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260325113825 +0800" stop="20260325120100 +0800">
+    <programme channel="CCTV1综合" start="20260325113825 +0800" stop="20260325115845 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260325120100 +0800" stop="20260325120400 +0800">
+    <programme channel="CCTV1综合" start="20260325115845 +0800" stop="20260325120200 +0800">
         <title lang="zh">前情提要-家事法庭-第1集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260325120400 +0800" stop="20260325125450 +0800">
+    <programme channel="CCTV1综合" start="20260325120200 +0800" stop="20260325125350 +0800">
         <title lang="zh">家事法庭第1集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260325125450 +0800" stop="20260325125755 +0800">
+    <programme channel="CCTV1综合" start="20260325125350 +0800" stop="20260325125655 +0800">
         <title lang="zh">前情提要-家事法庭-第2集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260325125755 +0800" stop="20260325135210 +0800">
+    <programme channel="CCTV1综合" start="20260325125655 +0800" stop="20260325135140 +0800">
         <title lang="zh">家事法庭第2集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260325135210 +0800" stop="20260325140000 +0800">
+    <programme channel="CCTV1综合" start="20260325135140 +0800" stop="20260325140000 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme channel="CCTV1综合" start="20260325140000 +0800" stop="20260325143545 +0800">
@@ -10296,7 +10296,7 @@
     <programme channel="南方影视" start="20260325142000 +0800" stop="20260325143500 +0800">
         <title lang="zh">广东电影报道+有请大医生</title>
     </programme>
-    <programme channel="南方影视" start="20260325143500 +0800" stop="20260325160000 +0800">
+    <programme channel="南方影视" start="20260325143500 +0800" stop="20260325163000 +0800">
         <title lang="zh">剧无霸经典剧场:兄弟们上(27-29)</title>
     </programme>
     <channel id="中国天气">
