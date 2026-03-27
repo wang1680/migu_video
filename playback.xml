@@ -1338,10 +1338,10 @@
     <programme channel="CCTV13新闻" start="20260327110000 +0800" stop="20260327113150 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260327113150 +0800" stop="20260327113810 +0800">
+    <programme channel="CCTV13新闻" start="20260327113150 +0800" stop="20260327113825 +0800">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260327113810 +0800" stop="20260327120000 +0800">
+    <programme channel="CCTV13新闻" start="20260327113825 +0800" stop="20260327120000 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260327120000 +0800" stop="20260327130000 +0800">
