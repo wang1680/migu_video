@@ -495,10 +495,10 @@
     <programme channel="CCTV5体育" start="20260408103000 +0800" stop="20260408113000 +0800">
         <title lang="zh">2026年蹦床世界杯-阿尔克马尔站2</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260408113000 +0800" stop="20260408133000 +0800">
+    <programme channel="CCTV5体育" start="20260408113000 +0800" stop="20260408134500 +0800">
         <title lang="zh">2025/2026赛季中国男子篮球职业联赛常规赛-第36轮（浙江浙商证券 - 山东高速）</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260408133000 +0800" stop="20260408143500 +0800">
+    <programme channel="CCTV5体育" start="20260408134500 +0800" stop="20260408143500 +0800">
         <title lang="zh">体育世界</title>
     </programme>
     <programme channel="CCTV5体育" start="20260408143500 +0800" stop="20260408153500 +0800">
@@ -4452,7 +4452,7 @@
     <programme channel="河北卫视" start="20260408155200 +0800" stop="20260408155500 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260408155500 +0800" stop="20260408160000 +0800">
+    <programme channel="河北卫视" start="20260408155500 +0800" stop="20260408163600 +0800">
         <title lang="zh">中国海南雨林秘境</title>
     </programme>
     <channel id="江西卫视">
