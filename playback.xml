@@ -3498,22 +3498,19 @@
     <channel id="东方卫视">
         <display-name lang="zh">东方卫视</display-name>
     </channel>
-    <programme channel="东方卫视" start="20260411155300 +0800" stop="20260411163600 +0800">
+    <programme channel="东方卫视" start="20260411155300 +0800" stop="20260411163500 +0800">
         <title lang="zh">国色芳华(8)</title>
     </programme>
-    <programme channel="东方卫视" start="20260411163600 +0800" stop="20260411171700 +0800">
+    <programme channel="东方卫视" start="20260411163500 +0800" stop="20260411172000 +0800">
         <title lang="zh">国色芳华(9)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260411171700 +0800" stop="20260411172000 +0800">
-        <title lang="zh">明日精彩看点</title>
     </programme>
     <programme channel="东方卫视" start="20260411172000 +0800" stop="20260411180100 +0800">
         <title lang="zh">国色芳华(10)</title>
     </programme>
-    <programme channel="东方卫视" start="20260411180100 +0800" stop="20260411184200 +0800">
+    <programme channel="东方卫视" start="20260411180100 +0800" stop="20260411184100 +0800">
         <title lang="zh">国色芳华(11)</title>
     </programme>
-    <programme channel="东方卫视" start="20260411184200 +0800" stop="20260411192300 +0800">
+    <programme channel="东方卫视" start="20260411184100 +0800" stop="20260411192300 +0800">
         <title lang="zh">国色芳华(12)</title>
     </programme>
     <programme channel="东方卫视" start="20260411192300 +0800" stop="20260411200300 +0800">
@@ -3528,26 +3525,29 @@
     <programme channel="东方卫视" start="20260411212300 +0800" stop="20260411220400 +0800">
         <title lang="zh">国色芳华(16)</title>
     </programme>
-    <programme channel="东方卫视" start="20260411220400 +0800" stop="20260411224400 +0800">
+    <programme channel="东方卫视" start="20260411220400 +0800" stop="20260411225600 +0800">
         <title lang="zh">国色芳华(17)</title>
     </programme>
-    <programme channel="东方卫视" start="20260411224400 +0800" stop="20260411225600 +0800">
-        <title lang="zh">国色芳华(18)</title>
-    </programme>
     <programme channel="东方卫视" start="20260411225600 +0800" stop="20260411230000 +0800">
-        <title lang="zh">探宝上博百物看中国因AI而生(19)</title>
+        <title lang="zh">探宝上博·百物看中国-因AI而生</title>
     </programme>
-    <programme channel="东方卫视" start="20260411230000 +0800" stop="20260411230100 +0800">
-        <title lang="zh">中华人民共和国国歌</title>
-    </programme>
-    <programme channel="东方卫视" start="20260411230100 +0800" stop="20260412005900 +0800">
+    <programme channel="东方卫视" start="20260411230000 +0800" stop="20260412005900 +0800">
         <title lang="zh">看东方</title>
     </programme>
-    <programme channel="东方卫视" start="20260412005900 +0800" stop="20260412010000 +0800">
-        <title lang="zh">天气预报</title>
+    <programme channel="东方卫视" start="20260412005900 +0800" stop="20260412010100 +0800">
+        <title lang="zh">东方新气象</title>
     </programme>
-    <programme channel="东方卫视" start="20260412010000 +0800" stop="20260412040000 +0800">
-        <title lang="zh">他从火光中走来(12-15)</title>
+    <programme channel="东方卫视" start="20260412010100 +0800" stop="20260412014500 +0800">
+        <title lang="zh">他从火光中走来(12)</title>
+    </programme>
+    <programme channel="东方卫视" start="20260412014500 +0800" stop="20260412022900 +0800">
+        <title lang="zh">他从火光中走来(13)</title>
+    </programme>
+    <programme channel="东方卫视" start="20260412022900 +0800" stop="20260412031300 +0800">
+        <title lang="zh">他从火光中走来(14)</title>
+    </programme>
+    <programme channel="东方卫视" start="20260412031300 +0800" stop="20260412040000 +0800">
+        <title lang="zh">他从火光中走来(15)</title>
     </programme>
     <programme channel="东方卫视" start="20260412040000 +0800" stop="20260412044200 +0800">
         <title lang="zh">环球交叉点(642)</title>
@@ -3606,7 +3606,7 @@
     <programme channel="东方卫视" start="20260412151200 +0800" stop="20260412155300 +0800">
         <title lang="zh">国色芳华(18)</title>
     </programme>
-    <programme channel="东方卫视" start="20260412155300 +0800" stop="20260412160000 +0800">
+    <programme channel="东方卫视" start="20260412155300 +0800" stop="20260412163400 +0800">
         <title lang="zh">国色芳华(19)</title>
     </programme>
     <channel id="江苏卫视">
@@ -3828,13 +3828,13 @@
     <channel id="北京卫视">
         <display-name lang="zh">北京卫视</display-name>
     </channel>
-    <programme channel="北京卫视" start="20260411152000 +0800" stop="20260411161100 +0800">
+    <programme channel="北京卫视" start="20260411152000 +0800" stop="20260411160400 +0800">
         <title lang="zh">澳门之味(3)</title>
     </programme>
-    <programme channel="北京卫视" start="20260411161100 +0800" stop="20260411165900 +0800">
+    <programme channel="北京卫视" start="20260411160400 +0800" stop="20260411165100 +0800">
         <title lang="zh">档案纯享版(156)</title>
     </programme>
-    <programme channel="北京卫视" start="20260411165900 +0800" stop="20260411174400 +0800">
+    <programme channel="北京卫视" start="20260411165100 +0800" stop="20260411174400 +0800">
         <title lang="zh">档案纯享版(202)</title>
     </programme>
     <programme channel="北京卫视" start="20260411174400 +0800" stop="20260411182900 +0800">
@@ -3877,34 +3877,34 @@
         <title lang="zh">雨燕AI电影节</title>
     </programme>
     <programme channel="北京卫视" start="20260412010100 +0800" stop="20260412015000 +0800">
-        <title lang="zh">父母爱情(35)</title>
+        <title lang="zh">上午剧场:父母爱情(35)</title>
     </programme>
     <programme channel="北京卫视" start="20260412015000 +0800" stop="20260412023900 +0800">
-        <title lang="zh">父母爱情(36)</title>
+        <title lang="zh">上午剧场:父母爱情(36)</title>
     </programme>
-    <programme channel="北京卫视" start="20260412023900 +0800" stop="20260412032400 +0800">
-        <title lang="zh">父母爱情(37)</title>
+    <programme channel="北京卫视" start="20260412023900 +0800" stop="20260412030200 +0800">
+        <title lang="zh">上午剧场:父母爱情(37)</title>
     </programme>
-    <programme channel="北京卫视" start="20260412032400 +0800" stop="20260412040000 +0800">
+    <programme channel="北京卫视" start="20260412030200 +0800" stop="20260412040000 +0800">
         <title lang="zh">大国医者(47)</title>
     </programme>
     <programme channel="北京卫视" start="20260412040000 +0800" stop="20260412050400 +0800">
         <title lang="zh">特别关注</title>
     </programme>
     <programme channel="北京卫视" start="20260412050400 +0800" stop="20260412055200 +0800">
-        <title lang="zh">鼓楼外(3)</title>
+        <title lang="zh">午茶剧场:鼓楼外(3)</title>
     </programme>
     <programme channel="北京卫视" start="20260412055200 +0800" stop="20260412064000 +0800">
-        <title lang="zh">鼓楼外(4)</title>
+        <title lang="zh">午茶剧场:鼓楼外(4)</title>
     </programme>
     <programme channel="北京卫视" start="20260412064000 +0800" stop="20260412072700 +0800">
-        <title lang="zh">鼓楼外(5)</title>
+        <title lang="zh">午茶剧场:鼓楼外(5)</title>
     </programme>
     <programme channel="北京卫视" start="20260412072700 +0800" stop="20260412081100 +0800">
-        <title lang="zh">鼓楼外(6)</title>
+        <title lang="zh">午茶剧场:鼓楼外(6)</title>
     </programme>
     <programme channel="北京卫视" start="20260412081100 +0800" stop="20260412083300 +0800">
-        <title lang="zh">预告版</title>
+        <title lang="zh">大戏看北京</title>
     </programme>
     <programme channel="北京卫视" start="20260412083300 +0800" stop="20260412090800 +0800">
         <title lang="zh">大国医者(46)</title>
@@ -3945,7 +3945,7 @@
     <programme channel="北京卫视" start="20260412145700 +0800" stop="20260412154100 +0800">
         <title lang="zh">唐朝诡事录之长安(17)</title>
     </programme>
-    <programme channel="北京卫视" start="20260412154100 +0800" stop="20260412164600 +0800">
+    <programme channel="北京卫视" start="20260412154100 +0800" stop="20260412163200 +0800">
         <title lang="zh">澳门之味(4)</title>
     </programme>
     <channel id="辽宁卫视">
