@@ -3465,8 +3465,35 @@
     <channel id="24小时城市联赛轮播台">
         <display-name lang="zh">24小时城市联赛轮播台</display-name>
     </channel>
-    <programme channel="24小时城市联赛轮播台" start="20260412160000 +0800" stop="20260413155900 +0800">
-        <title lang="zh"></title>
+    <programme channel="24小时城市联赛轮播台" start="20260412160000 +0800" stop="20260412175200 +0800">
+        <title lang="zh">安徽徽乒赛滁州市定远县海选赛day1全场回放</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260412175200 +0800" stop="20260412200200 +0800">
+        <title lang="zh">安徽徽青赛第9轮全场回放：滁州0:2亳州</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260412200200 +0800" stop="20260412223700 +0800">
+        <title lang="zh">云南滇超第8轮全场回放：玉溪市5:0昭通市</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260412223700 +0800" stop="20260413005500 +0800">
+        <title lang="zh">四川川超第3轮全场回放：达州川汉子队2:1绵阳九洲长虹队</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260413005500 +0800" stop="20260413040400 +0800">
+        <title lang="zh">广西县超第6轮全场回放：北海市合浦县队4:0崇左市凭祥市队</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260413040400 +0800" stop="20260413073000 +0800">
+        <title lang="zh">江西赣BA季后赛第2轮全场回放：吉安84:61萍乡</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260413073000 +0800" stop="20260413102000 +0800">
+        <title lang="zh">广东粤BA第1轮全场回放：广州83:86中山</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260413102000 +0800" stop="20260413122100 +0800">
+        <title lang="zh">安徽徽乒赛阜阳市界首市海选赛day2全场回放</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260413122100 +0800" stop="20260413145800 +0800">
+        <title lang="zh">安徽徽青赛第9轮全场回放：蚌埠2:1芜湖</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260413145800 +0800" stop="20260413173000 +0800">
+        <title lang="zh">云南滇超第8轮全场回放：大理州1:2迪庆州</title>
     </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
@@ -4323,7 +4350,7 @@
     <programme channel="河北卫视" start="20260413155000 +0800" stop="20260413155300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260413155300 +0800" stop="20260413160000 +0800">
+    <programme channel="河北卫视" start="20260413155300 +0800" stop="20260413162400 +0800">
         <title lang="zh">毛泽东书信故事(26001）</title>
     </programme>
     <channel id="江西卫视">
