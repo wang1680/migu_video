@@ -3531,35 +3531,32 @@
     <programme channel="24小时城市联赛轮播台" start="20260414134600 +0800" stop="20260414161700 +0800">
         <title lang="zh">广西县超第6轮全场回放：防城港市港口区队4:3防城港市东兴市队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260414161700 +0800" stop="20260414192500 +0800">
-        <title lang="zh">江西赣BA半决赛第1轮全场回放：萍乡77:73南昌</title>
+    <programme channel="24小时城市联赛轮播台" start="20260414172100 +0800" stop="20260414194900 +0800">
+        <title lang="zh">江西赣BA季后赛第2轮全场回放：九江82:85上饶</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260414192500 +0800" stop="20260414215600 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260414194900 +0800" stop="20260414221800 +0800">
         <title lang="zh">广东粤BA第2轮全场回放：惠州68:86清远</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260414215600 +0800" stop="20260415005200 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260414221800 +0800" stop="20260415004300 +0800">
         <title lang="zh">安徽徽乒赛阜阳市界首市海选赛Day2全场回放</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260415005200 +0800" stop="20260415031700 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260415004300 +0800" stop="20260415030600 +0800">
         <title lang="zh">安徽徽青赛第8轮全场回放：合肥4:0淮北</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260415031700 +0800" stop="20260415053200 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260415030600 +0800" stop="20260415061300 +0800">
         <title lang="zh">云南滇超第8轮全场回放：红河州3:0文山州</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260415053200 +0800" stop="20260415073900 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260415061300 +0800" stop="20260415081500 +0800">
         <title lang="zh">四川川超第4轮全场回放：成都锦城队1:0宜宾长江首城队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260415073900 +0800" stop="20260415101400 +0800">
-        <title lang="zh">广西县超第5轮全场回放：百色市田东县队2:1南宁市宾阳县队</title>
+    <programme channel="24小时城市联赛轮播台" start="20260415081500 +0800" stop="20260415103400 +0800">
+        <title lang="zh">云南滇超第9轮全场回放：临沧队1:2大理队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260415101400 +0800" stop="20260415125500 +0800">
-        <title lang="zh">江西赣BA季后赛第3轮全场回放：南昌86:80赣州</title>
+    <programme channel="24小时城市联赛轮播台" start="20260415103400 +0800" stop="20260415131700 +0800">
+        <title lang="zh">四川川超第5轮全场回放：宜宾长江首城队3:2凉山好医生队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260415125500 +0800" stop="20260415152100 +0800">
-        <title lang="zh">广东粤BA第2轮全场回放：揭阳73:80深圳</title>
-    </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260415152100 +0800" stop="20260415171300 +0800">
-        <title lang="zh">安徽徽乒赛滁州市定远县海选赛day1全场回放</title>
+    <programme channel="24小时城市联赛轮播台" start="20260415131700 +0800" stop="20260415165200 +0800">
+        <title lang="zh">四川川超第5轮全场回放：南充丝绸源点队3:1达州川汉子队</title>
     </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
@@ -4404,7 +4401,7 @@
     <programme channel="河北卫视" start="20260415154600 +0800" stop="20260415154900 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260415154900 +0800" stop="20260415160000 +0800">
+    <programme channel="河北卫视" start="20260415154900 +0800" stop="20260415162000 +0800">
         <title lang="zh">运河风味</title>
     </programme>
     <channel id="江西卫视">
