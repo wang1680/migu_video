@@ -1671,11 +1671,11 @@
     <programme channel="CCTV4欧洲" start="20260417110000 +0800" stop="20260417113000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260417113000 +0800" stop="20260417123030 +0800">
+    <programme channel="CCTV4欧洲" start="20260417113000 +0800" stop="20260417123000 +0800">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260417123030 +0800" stop="20260417130000 +0800">
-        <title lang="zh">中国文艺-2026-76</title>
+    <programme channel="CCTV4欧洲" start="20260417123000 +0800" stop="20260417130000 +0800">
+        <title lang="zh">走遍中国-2026-61</title>
     </programme>
     <programme channel="CCTV4欧洲" start="20260417130000 +0800" stop="20260417133000 +0800">
         <title lang="zh">中国新闻</title>
@@ -3507,13 +3507,13 @@
     <programme channel="24小时城市联赛轮播台" start="20260417070800 +0800" stop="20260417090900 +0800">
         <title lang="zh">安徽徽青赛第10轮全场回放：六安3:1马鞍山</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260417090900 +0800" stop="20260417112800 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260417090900 +0800" stop="20260417111500 +0800">
         <title lang="zh">云南滇超第9轮全场回放：临沧队1:2大理队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260417112800 +0800" stop="20260417141100 +0800">
-        <title lang="zh">四川川超第5轮全场回放：宜宾长江首城队3:2凉山好医生队</title>
+    <programme channel="24小时城市联赛轮播台" start="20260417111500 +0800" stop="20260417143000 +0800">
+        <title lang="zh">浙江吴越杯第3轮：嘉兴VS宁波</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260417141100 +0800" stop="20260417172600 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260417143000 +0800" stop="20260417172600 +0800">
         <title lang="zh">广西县超第7轮全场回放：梧州市岑溪市队2:4梧州市苍梧县队</title>
     </programme>
     <channel id="武术世界">
@@ -4353,7 +4353,7 @@
     <programme channel="河北卫视" start="20260417153000 +0800" stop="20260417153500 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260417153500 +0800" stop="20260417160000 +0800">
+    <programme channel="河北卫视" start="20260417153500 +0800" stop="20260417160500 +0800">
         <title lang="zh">运河风味</title>
     </programme>
     <channel id="江西卫视">
