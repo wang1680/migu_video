@@ -94,10 +94,10 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme channel="CCTV1综合" start="20260417115740 +0800" stop="20260417120100 +0800">
-        <title lang="zh">前情提要-金关-7/22</title>
+        <title lang="zh">前情提要-金关-第7集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260417120100 +0800" stop="20260417125525 +0800">
-        <title lang="zh">金关7/22</title>
+        <title lang="zh">金关第7集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260417125525 +0800" stop="20260417135120 +0800">
         <title lang="zh">周末一起看电影-1</title>
@@ -414,11 +414,8 @@
     <programme channel="CCTV4中文国际" start="20260417110000 +0800" stop="20260417113000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260417113000 +0800" stop="20260417120000 +0800">
+    <programme channel="CCTV4中文国际" start="20260417113000 +0800" stop="20260417123000 +0800">
         <title lang="zh">今日亚洲</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20260417120000 +0800" stop="20260417123000 +0800">
-        <title lang="zh">记住乡愁2026-46</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20260417123000 +0800" stop="20260417130000 +0800">
         <title lang="zh">海峡两岸-2026-107</title>
@@ -435,14 +432,11 @@
     <programme channel="CCTV4中文国际" start="20260417143000 +0800" stop="20260417150230 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260417150230 +0800" stop="20260417152830 +0800">
-        <title lang="zh">今日亚洲</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20260417152830 +0800" stop="20260417155500 +0800">
+    <programme channel="CCTV4中文国际" start="20260417150230 +0800" stop="20260417152900 +0800">
         <title lang="zh">海峡两岸-2026-107</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260417155500 +0800" stop="20260417155900 +0800">
-        <title lang="zh">护宝寻踪第28集</title>
+    <programme channel="CCTV4中文国际" start="20260417152900 +0800" stop="20260417155900 +0800">
+        <title lang="zh">护宝寻踪第31集</title>
     </programme>
     <channel id="CCTV5体育">
         <display-name lang="zh">CCTV5体育</display-name>
@@ -1677,20 +1671,11 @@
     <programme channel="CCTV4欧洲" start="20260417110000 +0800" stop="20260417113000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260417113000 +0800" stop="20260417120000 +0800">
+    <programme channel="CCTV4欧洲" start="20260417113000 +0800" stop="20260417123030 +0800">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260417120000 +0800" stop="20260417124500 +0800">
-        <title lang="zh">远方的家2026-81</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20260417124500 +0800" stop="20260417124900 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-20</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20260417124900 +0800" stop="20260417125200 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-29</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20260417125200 +0800" stop="20260417130000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-31</title>
+    <programme channel="CCTV4欧洲" start="20260417123030 +0800" stop="20260417130000 +0800">
+        <title lang="zh">中国文艺-2026-76</title>
     </programme>
     <programme channel="CCTV4欧洲" start="20260417130000 +0800" stop="20260417133000 +0800">
         <title lang="zh">中国新闻</title>
@@ -1800,11 +1785,8 @@
     <programme channel="CCTV4美洲" start="20260417110000 +0800" stop="20260417113000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260417113000 +0800" stop="20260417120000 +0800">
+    <programme channel="CCTV4美洲" start="20260417113000 +0800" stop="20260417123000 +0800">
         <title lang="zh">今日亚洲</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20260417120000 +0800" stop="20260417123000 +0800">
-        <title lang="zh">中国文艺-2026-76</title>
     </programme>
     <programme channel="CCTV4美洲" start="20260417123000 +0800" stop="20260417130000 +0800">
         <title lang="zh">走遍中国-2026-61</title>
@@ -3705,17 +3687,8 @@
     <programme channel="东方卫视" start="20260417005900 +0800" stop="20260417010100 +0800">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme channel="东方卫视" start="20260417010100 +0800" stop="20260417014900 +0800">
-        <title lang="zh">他从火光中走来(32)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260417014900 +0800" stop="20260417023200 +0800">
-        <title lang="zh">他从火光中走来(33)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260417023200 +0800" stop="20260417031500 +0800">
-        <title lang="zh">他从火光中走来(34)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260417031500 +0800" stop="20260417040000 +0800">
-        <title lang="zh">他从火光中走来(35)</title>
+    <programme channel="东方卫视" start="20260417010100 +0800" stop="20260417040000 +0800">
+        <title lang="zh">他从火光中走来32-35</title>
     </programme>
     <programme channel="东方卫视" start="20260417040000 +0800" stop="20260417042600 +0800">
         <title lang="zh">午间30分</title>
@@ -3726,23 +3699,8 @@
     <programme channel="东方卫视" start="20260417043000 +0800" stop="20260417044200 +0800">
         <title lang="zh">ShanghaiEye</title>
     </programme>
-    <programme channel="东方卫视" start="20260417044200 +0800" stop="20260417052800 +0800">
-        <title lang="zh">雁回时(24)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260417052800 +0800" stop="20260417061500 +0800">
-        <title lang="zh">雁回时(25)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260417061500 +0800" stop="20260417070600 +0800">
-        <title lang="zh">雁回时(26)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260417070600 +0800" stop="20260417074100 +0800">
-        <title lang="zh">雁回时(27)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260417074100 +0800" stop="20260417082600 +0800">
-        <title lang="zh">雁回时(28)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260417082600 +0800" stop="20260417090700 +0800">
-        <title lang="zh">雁回时(29)</title>
+    <programme channel="东方卫视" start="20260417044200 +0800" stop="20260417090700 +0800">
+        <title lang="zh">雁回时24-29</title>
     </programme>
     <programme channel="东方卫视" start="20260417090700 +0800" stop="20260417093300 +0800">
         <title lang="zh">东方新娱乐</title>
@@ -3777,14 +3735,8 @@
     <programme channel="东方卫视" start="20260417135900 +0800" stop="20260417140000 +0800">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme channel="东方卫视" start="20260417140000 +0800" stop="20260417144200 +0800">
-        <title lang="zh">不完美受害人(10)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260417144200 +0800" stop="20260417152400 +0800">
-        <title lang="zh">不完美受害人(11)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260417152400 +0800" stop="20260417160700 +0800">
-        <title lang="zh">不完美受害人(12)</title>
+    <programme channel="东方卫视" start="20260417140000 +0800" stop="20260417160700 +0800">
+        <title lang="zh">不完美受害人10-12</title>
     </programme>
     <channel id="江苏卫视">
         <display-name lang="zh">江苏卫视</display-name>
