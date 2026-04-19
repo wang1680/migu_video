@@ -549,64 +549,70 @@
     <channel id="CCTV6电影">
         <display-name lang="zh">CCTV6电影</display-name>
     </channel>
-    <programme channel="CCTV6电影" start="20260418160000 +0800" stop="20260418161442 +0800">
+    <programme channel="CCTV6电影" start="20260418160000 +0800" stop="20260418162207 +0800">
         <title lang="zh">满汉全席（下）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260418161442 +0800" stop="20260418175305 +0800">
+    <programme channel="CCTV6电影" start="20260418162207 +0800" stop="20260418175630 +0800">
         <title lang="zh">黄雀在后！</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260418175305 +0800" stop="20260418192914 +0800">
+    <programme channel="CCTV6电影" start="20260418175630 +0800" stop="20260418193239 +0800">
         <title lang="zh">垫底冠军</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260418192914 +0800" stop="20260418231221 +0800">
+    <programme channel="CCTV6电影" start="20260418193239 +0800" stop="20260418210836 +0800">
         <title lang="zh">新同学</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260418231221 +0800" stop="20260419010621 +0800">
+    <programme channel="CCTV6电影" start="20260418210836 +0800" stop="20260418225010 +0800">
+        <title lang="zh">师父</title>
+    </programme>
+    <programme channel="CCTV6电影" start="20260418225010 +0800" stop="20260418231004 +0800">
+        <title lang="zh">北京爱情故事 中年篇</title>
+    </programme>
+    <programme channel="CCTV6电影" start="20260418231004 +0800" stop="20260419010234 +0800">
         <title lang="zh">狐踪谍影</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260419010621 +0800" stop="20260419024751 +0800">
+    <programme channel="CCTV6电影" start="20260419010234 +0800" stop="20260419024314 +0800">
         <title lang="zh">屠门镇之破茧之子</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260419024751 +0800" stop="20260419042529 +0800">
+    <programme channel="CCTV6电影" start="20260419024314 +0800" stop="20260419042512 +0800">
         <title lang="zh">屠门镇之关西荡寇</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260419042529 +0800" stop="20260419043209 +0800">
+    <programme channel="CCTV6电影" start="20260419042512 +0800" stop="20260419043037 +0800">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260419043209 +0800" stop="20260419061222 +0800">
+    <programme channel="CCTV6电影" start="20260419043037 +0800" stop="20260419061330 +0800">
         <title lang="zh">屠门镇之孽缘惊魂</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260419061222 +0800" stop="20260419075047 +0800">
+    <programme channel="CCTV6电影" start="20260419061330 +0800" stop="20260419075400 +0800">
         <title lang="zh">屠门镇之复仇之路</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260419075047 +0800" stop="20260419080957 +0800">
+    <programme channel="CCTV6电影" start="20260419075400 +0800" stop="20260419081310 +0800">
         <title lang="zh">佳片有约周日版2026-016</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260419080957 +0800" stop="20260419083707 +0800">
+    <programme channel="CCTV6电影" start="20260419081310 +0800" stop="20260419083939 +0800">
         <title lang="zh">满汉全席（上）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260419083707 +0800" stop="20260419100812 +0800">
+    <programme channel="CCTV6电影" start="20260419083939 +0800" stop="20260419101312 +0800">
         <title lang="zh">满汉全席（下）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260419100812 +0800" stop="20260419121541 +0800">
+    <programme channel="CCTV6电影" start="20260419101312 +0800" stop="20260419121436 +0800">
         <title lang="zh">警察故事2013</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260419121541 +0800" stop="20260419140000 +0800">
+    <programme channel="CCTV6电影" start="20260419121436 +0800" stop="20260419140000 +0800">
         <title lang="zh">功夫</title>
     </programme>
     <programme channel="CCTV6电影" start="20260419140000 +0800" stop="20260419141800 +0800">
         <title lang="zh">中国电影报道2026-109</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260419141800 +0800" stop="20260419142345 +0800">
+    <programme channel="CCTV6电影" start="20260419141800 +0800" stop="20260419142415 +0800">
         <title lang="zh">中国福利彩票阳光开奖2026-04-19</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260419142345 +0800" stop="20260419150025 +0800">
+    <programme channel="CCTV6电影" start="20260419142415 +0800" stop="20260419150006 +0800">
         <title lang="zh">巴黎圣母院（上）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260419150025 +0800" stop="20260419150155 +0800">
+    <programme channel="CCTV6电影" start="20260419150006 +0800" stop="20260419150106 +0800">
         <title lang="zh">中国体育彩票阳光开奖2026-04-19</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260419150155 +0800" stop="20260419155900 +0800">
+    <programme channel="CCTV6电影" start="20260419150106 +0800" stop="20260419155900 +0800">
         <title lang="zh">巴黎圣母院（下）</title>
     </programme>
     <channel id="CCTV7国防军事">
