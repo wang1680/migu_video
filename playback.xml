@@ -550,7 +550,7 @@
         <title lang="zh">体育世界</title>
     </programme>
     <programme channel="CCTV5体育" start="20260424143000 +0800" stop="20260424155900 +0800">
-        <title lang="zh">2025/2026赛季世界斯诺克锦标赛-1/8决赛2</title>
+        <title lang="zh">2025/2026赛季世界斯诺克锦标赛-1/8决赛（赵心童VS丁俊晖）</title>
     </programme>
     <channel id="CCTV5+体育赛事">
         <display-name lang="zh">CCTV5+体育赛事</display-name>
@@ -592,10 +592,10 @@
         <title lang="zh">2025/2026赛季中国排球超级联赛-女排决赛第二场</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260424063000 +0800" stop="20260424090000 +0800">
-        <title lang="zh">2026年汤尤杯羽毛球赛-小组赛1</title>
+        <title lang="zh">2026年尤伯杯小组赛：中国队VS乌克兰队</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260424090000 +0800" stop="20260424113000 +0800">
-        <title lang="zh">2025/2026赛季世界斯诺克锦标赛-1/8决赛1</title>
+        <title lang="zh">2025/2026赛季世界斯诺克锦标赛-1/8决赛（肖国栋VS墨菲）</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260424113000 +0800" stop="20260424133500 +0800">
         <title lang="zh">2026年全国举重锦标赛-男子110公斤以上级</title>
