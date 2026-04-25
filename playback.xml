@@ -3513,10 +3513,10 @@
     <programme channel="24小时城市联赛轮播台" start="20260425093000 +0800" stop="20260425111000 +0800">
         <title lang="zh">浙江吴越杯第3轮全场回放：丽水1:3台州</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260425111000 +0800" stop="20260425141000 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260425111000 +0800" stop="20260425135500 +0800">
         <title lang="zh">江苏苏超常规赛第3周：南通队VS徐州队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260425141000 +0800" stop="20260425141500 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260425135500 +0800" stop="20260425141500 +0800">
         <title lang="zh">江苏苏超常规赛第2周全场回放：徐州队3:0泰州队</title>
     </programme>
     <programme channel="24小时城市联赛轮播台" start="20260425141500 +0800" stop="20260425173100 +0800">
@@ -3678,14 +3678,8 @@
     <programme channel="东方卫视" start="20260425005900 +0800" stop="20260425010100 +0800">
         <title lang="zh">东方新气象</title>
     </programme>
-    <programme channel="东方卫视" start="20260425010100 +0800" stop="20260425014400 +0800">
-        <title lang="zh">都挺好(1)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260425014400 +0800" stop="20260425022600 +0800">
-        <title lang="zh">都挺好(2)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260425022600 +0800" stop="20260425032800 +0800">
-        <title lang="zh">都挺好(3)</title>
+    <programme channel="东方卫视" start="20260425010100 +0800" stop="20260425032800 +0800">
+        <title lang="zh">都挺好(1-3)</title>
     </programme>
     <programme channel="东方卫视" start="20260425032800 +0800" stop="20260425040000 +0800">
         <title lang="zh">潮童天下(1143)</title>
@@ -3726,17 +3720,8 @@
     <programme channel="东方卫视" start="20260425113200 +0800" stop="20260425122100 +0800">
         <title lang="zh">蜜语纪(22)</title>
     </programme>
-    <programme channel="东方卫视" start="20260425122100 +0800" stop="20260425130200 +0800">
-        <title lang="zh">不完美受害人(22)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260425130200 +0800" stop="20260425134400 +0800">
-        <title lang="zh">不完美受害人(23)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260425134400 +0800" stop="20260425142600 +0800">
-        <title lang="zh">不完美受害人(24)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260425142600 +0800" stop="20260425150800 +0800">
-        <title lang="zh">不完美受害人(25)</title>
+    <programme channel="东方卫视" start="20260425122100 +0800" stop="20260425150800 +0800">
+        <title lang="zh">不完美受害人(22-25)</title>
     </programme>
     <programme channel="东方卫视" start="20260425150800 +0800" stop="20260425154900 +0800">
         <title lang="zh">后浪(28)</title>
