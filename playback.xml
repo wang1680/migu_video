@@ -3852,20 +3852,8 @@
     <programme channel="东方卫视" start="20260429005900 +0800" stop="20260429010100 +0800">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme channel="东方卫视" start="20260429010100 +0800" stop="20260429014300 +0800">
-        <title lang="zh">都挺好(17)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260429014300 +0800" stop="20260429022600 +0800">
-        <title lang="zh">都挺好(18)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260429022600 +0800" stop="20260429030900 +0800">
-        <title lang="zh">都挺好(19)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260429030900 +0800" stop="20260429035000 +0800">
-        <title lang="zh">都挺好(20)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260429035000 +0800" stop="20260429040000 +0800">
-        <title lang="zh">都挺好(21)</title>
+    <programme channel="东方卫视" start="20260429010100 +0800" stop="20260429040000 +0800">
+        <title lang="zh">都挺好(17-21)</title>
     </programme>
     <programme channel="东方卫视" start="20260429040000 +0800" stop="20260429042600 +0800">
         <title lang="zh">午间30分</title>
