@@ -510,13 +510,13 @@
     <programme channel="CCTV5体育" start="20260429080000 +0800" stop="20260429125000 +0800">
         <title lang="zh">2026年汤姆斯杯羽毛球赛-小组赛（中国-印度）</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260429125000 +0800" stop="20260429133000 +0800">
+    <programme channel="CCTV5体育" start="20260429125000 +0800" stop="20260429135700 +0800">
         <title lang="zh">2025/2026赛季中国男子篮球职业联赛-季后赛12进8 （青岛崂山啤酒-山西汾酒）第一场</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260429133000 +0800" stop="20260429140000 +0800">
+    <programme channel="CCTV5体育" start="20260429135700 +0800" stop="20260429142800 +0800">
         <title lang="zh">体育世界</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260429140000 +0800" stop="20260429155900 +0800">
+    <programme channel="CCTV5体育" start="20260429142800 +0800" stop="20260429155900 +0800">
         <title lang="zh">2025/2026赛季世界斯诺克锦标赛-1/4决赛2 赵心童-墨菲</title>
     </programme>
     <channel id="CCTV5+体育赛事">
