@@ -3510,10 +3510,13 @@
     <programme channel="24小时城市联赛轮播台" start="20260501100000 +0800" stop="20260501103500 +0800">
         <title lang="zh">湖北武汉城超第1轮全场回放：武汉引力空间93:85CHA海外仓</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260501103500 +0800" stop="20260501153500 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260501103500 +0800" stop="20260501135400 +0800">
         <title lang="zh">四川川超第8轮:乐山味道非常队VS凉山好医生队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260501153500 +0800" stop="20260501165700 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260501135400 +0800" stop="20260501142100 +0800">
+        <title lang="zh">云南滇超第11轮全场回放：迪庆队3:1昭通队</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260501142100 +0800" stop="20260501165700 +0800">
         <title lang="zh">四川川超第7轮全场回放：成都锦城队2:1乐山味道非常队</title>
     </programme>
     <channel id="武术世界">
