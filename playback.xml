@@ -1332,10 +1332,10 @@
     <programme channel="CCTV13新闻" start="20260505130000 +0800" stop="20260505133000 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260505133000 +0800" stop="20260505140500 +0800">
+    <programme channel="CCTV13新闻" start="20260505133000 +0800" stop="20260505140200 +0800">
         <title lang="zh">2026吾家吾国-11</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260505140500 +0800" stop="20260505143000 +0800">
+    <programme channel="CCTV13新闻" start="20260505140200 +0800" stop="20260505143000 +0800">
         <title lang="zh">国际时讯</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260505143000 +0800" stop="20260505150000 +0800">
@@ -3594,10 +3594,13 @@
     <programme channel="24小时城市联赛轮播台" start="20260505100900 +0800" stop="20260505103500 +0800">
         <title lang="zh">浙江吴越杯第5轮全场回放：金华0:1宁波</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260505103500 +0800" stop="20260505154500 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260505103500 +0800" stop="20260505134600 +0800">
         <title lang="zh">四川川超第9轮:宜宾长江首城队VS南充丝绸源点队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260505154500 +0800" stop="20260505170800 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260505134600 +0800" stop="20260505145900 +0800">
+        <title lang="zh">江苏苏超常规赛第3周全场回放：南通队0:0徐州队</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260505145900 +0800" stop="20260505170800 +0800">
         <title lang="zh">福建闽超第1轮全场回放：龙岩2:0漳州</title>
     </programme>
     <channel id="武术世界">
