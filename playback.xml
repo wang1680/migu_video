@@ -85,7 +85,7 @@
         <title lang="zh">生活早参考-特别节目（生活圈）2026-123</title>
     </programme>
     <programme channel="CCTV1综合" start="20260508102115 +0800" stop="20260508105115 +0800">
-        <title lang="zh">文脉春秋-2025-7</title>
+        <title lang="zh">文脉春秋-2025-23</title>
     </programme>
     <programme channel="CCTV1综合" start="20260508105115 +0800" stop="20260508110000 +0800">
         <title lang="zh">秘境之眼-2026-121</title>
@@ -118,7 +118,7 @@
         <title lang="zh">晚间新闻</title>
     </programme>
     <programme channel="CCTV1综合" start="20260508143630 +0800" stop="20260508155900 +0800">
-        <title lang="zh">山水间的家（第四季）-9</title>
+        <title lang="zh">非遗里的中国（第三季）-9</title>
     </programme>
     <channel id="CCTV2财经">
         <display-name lang="zh">CCTV2财经</display-name>
@@ -4239,7 +4239,7 @@
     <programme channel="辽宁卫视" start="20260508150200 +0800" stop="20260508153500 +0800">
         <title lang="zh">纪录片</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260508153500 +0800" stop="20260508160000 +0800">
+    <programme channel="辽宁卫视" start="20260508153500 +0800" stop="20260508163600 +0800">
         <title lang="zh">欢乐点点</title>
     </programme>
     <channel id="河北卫视">
@@ -4380,7 +4380,7 @@
     <programme channel="河北卫视" start="20260508154300 +0800" stop="20260508154600 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260508154600 +0800" stop="20260508160000 +0800">
+    <programme channel="河北卫视" start="20260508154600 +0800" stop="20260508162100 +0800">
         <title lang="zh">中国经济圆桌会</title>
     </programme>
     <channel id="江西卫视">
