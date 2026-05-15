@@ -103,13 +103,13 @@
         <title lang="zh">前情提要-主角-第11集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260515120300 +0800" stop="20260515125105 +0800">
-        <title lang="zh">主角11/48</title>
+        <title lang="zh">主角第11集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260515125105 +0800" stop="20260515125405 +0800">
         <title lang="zh">前情提要-主角-第12集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260515125405 +0800" stop="20260515134305 +0800">
-        <title lang="zh">主角12/48</title>
+        <title lang="zh">主角第12集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260515134305 +0800" stop="20260515135105 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
@@ -916,13 +916,13 @@
         <title lang="zh">本集提要-雨霖铃-第5集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260515132940 +0800" stop="20260515141940 +0800">
-        <title lang="zh">雨霖铃5/37</title>
+        <title lang="zh">雨霖铃第5集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260515141940 +0800" stop="20260515142140 +0800">
         <title lang="zh">本集提要-雨霖铃-第6集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260515142140 +0800" stop="20260515151140 +0800">
-        <title lang="zh">雨霖铃6/37</title>
+        <title lang="zh">雨霖铃第6集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260515151140 +0800" stop="20260515155740 +0800">
         <title lang="zh">无所畏惧之永不放弃第38集</title>
@@ -4518,7 +4518,7 @@
     <programme channel="河北卫视" start="20260515153000 +0800" stop="20260515153300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260515153300 +0800" stop="20260515160000 +0800">
+    <programme channel="河北卫视" start="20260515153300 +0800" stop="20260515162300 +0800">
         <title lang="zh">马王堆岁月不朽</title>
     </programme>
     <channel id="江西卫视">
