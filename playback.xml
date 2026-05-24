@@ -105,10 +105,10 @@
     <programme channel="CCTV1综合" start="20260524140000 +0800" stop="20260524143000 +0800">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260524143000 +0800" stop="20260524154000 +0800">
+    <programme channel="CCTV1综合" start="20260524143000 +0800" stop="20260524154700 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260524154000 +0800" stop="20260524155900 +0800">
+    <programme channel="CCTV1综合" start="20260524154700 +0800" stop="20260524155900 +0800">
         <title lang="zh">山水间的家（第四季）-7</title>
     </programme>
     <channel id="CCTV2财经">
