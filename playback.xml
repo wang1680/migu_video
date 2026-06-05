@@ -543,10 +543,10 @@
     <programme channel="CCTV5体育" start="20260605103500 +0800" stop="20260605112000 +0800">
         <title lang="zh">篮球公园</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260605112000 +0800" stop="20260605134500 +0800">
+    <programme channel="CCTV5体育" start="20260605112000 +0800" stop="20260605141500 +0800">
         <title lang="zh">2025/2026赛季中国男子篮球职业联赛-总决赛第五场（上海久事-浙江浙商证券）</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260605134500 +0800" stop="20260605144500 +0800">
+    <programme channel="CCTV5体育" start="20260605141500 +0800" stop="20260605144500 +0800">
         <title lang="zh">体育世界</title>
     </programme>
     <programme channel="CCTV5体育" start="20260605144500 +0800" stop="20260605155900 +0800">
@@ -5031,23 +5031,20 @@
     <channel id="东南卫视">
         <display-name lang="zh">东南卫视</display-name>
     </channel>
-    <programme channel="东南卫视" start="20260604160000 +0800" stop="20260604173300 +0800">
+    <programme channel="东南卫视" start="20260604160000 +0800" stop="20260604172100 +0800">
         <title lang="zh">精彩节目</title>
     </programme>
-    <programme channel="东南卫视" start="20260604173300 +0800" stop="20260604190400 +0800">
-        <title lang="zh">重播中国正在说</title>
+    <programme channel="东南卫视" start="20260604172100 +0800" stop="20260604184800 +0800">
+        <title lang="zh">熊猫奇遇记 第2集</title>
     </programme>
-    <programme channel="东南卫视" start="20260604190400 +0800" stop="20260604195500 +0800">
+    <programme channel="东南卫视" start="20260604184800 +0800" stop="20260604194400 +0800">
         <title lang="zh">重播原来是这样</title>
     </programme>
-    <programme channel="东南卫视" start="20260604195500 +0800" stop="20260604202700 +0800">
+    <programme channel="东南卫视" start="20260604194400 +0800" stop="20260604203500 +0800">
         <title lang="zh">重播山海福建</title>
     </programme>
-    <programme channel="东南卫视" start="20260604202700 +0800" stop="20260604205800 +0800">
+    <programme channel="东南卫视" start="20260604203500 +0800" stop="20260604213800 +0800">
         <title lang="zh">重播海好遇见你</title>
-    </programme>
-    <programme channel="东南卫视" start="20260604205800 +0800" stop="20260604213800 +0800">
-        <title lang="zh">重播心中有片海</title>
     </programme>
     <programme channel="东南卫视" start="20260604213800 +0800" stop="20260604225500 +0800">
         <title lang="zh">精彩节目</title>
@@ -5065,7 +5062,7 @@
         <title lang="zh">精彩节目</title>
     </programme>
     <programme channel="东南卫视" start="20260605100500 +0800" stop="20260605102400 +0800">
-        <title lang="zh">原来是这样</title>
+        <title lang="zh">中华白海豚:第4集</title>
     </programme>
     <programme channel="东南卫视" start="20260605102400 +0800" stop="20260605103000 +0800">
         <title lang="zh">东南气象快讯</title>
@@ -5073,29 +5070,20 @@
     <programme channel="东南卫视" start="20260605103000 +0800" stop="20260605110000 +0800">
         <title lang="zh">福建卫视新闻</title>
     </programme>
-    <programme channel="东南卫视" start="20260605110000 +0800" stop="20260605113500 +0800">
+    <programme channel="东南卫视" start="20260605110000 +0800" stop="20260605113700 +0800">
         <title lang="zh">转播中央台新闻联播</title>
     </programme>
-    <programme channel="东南卫视" start="20260605113500 +0800" stop="20260605122800 +0800">
-        <title lang="zh">东南剧苑:好好的时光 第34集</title>
+    <programme channel="东南卫视" start="20260605113700 +0800" stop="20260605122900 +0800">
+        <title lang="zh">东南剧苑:好好的时光 第40集</title>
     </programme>
-    <programme channel="东南卫视" start="20260605122800 +0800" stop="20260605131300 +0800">
-        <title lang="zh">东南剧苑:好好的时光 第35集</title>
+    <programme channel="东南卫视" start="20260605122900 +0800" stop="20260605140800 +0800">
+        <title lang="zh">《第15届全国海洋知识竞赛》个人赛</title>
     </programme>
-    <programme channel="东南卫视" start="20260605131300 +0800" stop="20260605141200 +0800">
-        <title lang="zh">中国正在说</title>
-    </programme>
-    <programme channel="东南卫视" start="20260605141200 +0800" stop="20260605150300 +0800">
+    <programme channel="东南卫视" start="20260605140800 +0800" stop="20260605150000 +0800">
         <title lang="zh">海峡新干线</title>
     </programme>
-    <programme channel="东南卫视" start="20260605150300 +0800" stop="20260605151600 +0800">
+    <programme channel="东南卫视" start="20260605150000 +0800" stop="20260605160000 +0800">
         <title lang="zh">东南晚报</title>
-    </programme>
-    <programme channel="东南卫视" start="20260605151600 +0800" stop="20260605155000 +0800">
-        <title lang="zh">《第15届全国海洋知识竞赛》晋级赛 第2期</title>
-    </programme>
-    <programme channel="东南卫视" start="20260605155000 +0800" stop="20260605160000 +0800">
-        <title lang="zh">飞来峰 第1集</title>
     </programme>
     <channel id="海南卫视">
         <display-name lang="zh">海南卫视</display-name>
