@@ -465,14 +465,11 @@
     <programme channel="CCTV4中文国际" start="20260608143000 +0800" stop="20260608150000 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260608150000 +0800" stop="20260608152000 +0800">
+    <programme channel="CCTV4中文国际" start="20260608150000 +0800" stop="20260608153500 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260608152000 +0800" stop="20260608154400 +0800">
+    <programme channel="CCTV4中文国际" start="20260608153500 +0800" stop="20260608155900 +0800">
         <title lang="zh">传世古建-拙政园</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20260608154400 +0800" stop="20260608155900 +0800">
-        <title lang="zh">平凡匠心-2025-7</title>
     </programme>
     <channel id="CCTV5体育">
         <display-name lang="zh">CCTV5体育</display-name>
