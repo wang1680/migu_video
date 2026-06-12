@@ -112,7 +112,7 @@
         <title lang="zh">周末一起看电影-3</title>
     </programme>
     <programme channel="CCTV1综合" start="20260612153215 +0800" stop="20260612155900 +0800">
-        <title lang="zh">非遗里的中国（第四季）-甘肃篇（精编）</title>
+        <title lang="zh">生活早参考-特别节目（生活圈）2026-158</title>
     </programme>
     <channel id="CCTV2财经">
         <display-name lang="zh">CCTV2财经</display-name>
@@ -3360,152 +3360,173 @@
     <channel id="陕西体育休闲频道">
         <display-name lang="zh">陕西体育休闲频道</display-name>
     </channel>
-    <programme channel="陕西体育休闲频道" start="20260611160000 +0800" stop="20260611171400 +0800">
+    <programme channel="陕西体育休闲频道" start="20260611160000 +0800" stop="20260611162600 +0800">
         <title lang="zh">天下赛场</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260611171400 +0800" stop="20260611224600 +0800">
-        <title lang="zh">导视+结束曲</title>
+    <programme channel="陕西体育休闲频道" start="20260611162600 +0800" stop="20260611170800 +0800">
+        <title lang="zh">午夜剧场:我是刑警9</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260611224600 +0800" stop="20260611224700 +0800">
-        <title lang="zh">台标晨曲</title>
+    <programme channel="陕西体育休闲频道" start="20260611170800 +0800" stop="20260611175100 +0800">
+        <title lang="zh">午夜剧场:我是刑警10</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260611224700 +0800" stop="20260611231700 +0800">
-        <title lang="zh">搏击王</title>
+    <programme channel="陕西体育休闲频道" start="20260611175100 +0800" stop="20260611183400 +0800">
+        <title lang="zh">午夜剧场:我是刑警11</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260611231700 +0800" stop="20260611232000 +0800">
-        <title lang="zh">频道+导视</title>
+    <programme channel="陕西体育休闲频道" start="20260611183400 +0800" stop="20260611191600 +0800">
+        <title lang="zh">午夜剧场:我是刑警12</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260611232000 +0800" stop="20260611235000 +0800">
-        <title lang="zh">体育时间</title>
+    <programme channel="陕西体育休闲频道" start="20260611191600 +0800" stop="20260611195800 +0800">
+        <title lang="zh">午夜剧场:我是刑警13</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260611235000 +0800" stop="20260612001000 +0800">
-        <title lang="zh">天下赛场</title>
+    <programme channel="陕西体育休闲频道" start="20260611195800 +0800" stop="20260611204700 +0800">
+        <title lang="zh">午夜剧场:我是刑警14</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612001000 +0800" stop="20260612004000 +0800">
-        <title lang="zh">剧场:孤战迷城-12</title>
+    <programme channel="陕西体育休闲频道" start="20260611204700 +0800" stop="20260611214100 +0800">
+        <title lang="zh">欢乐点点</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612004000 +0800" stop="20260612010000 +0800">
-        <title lang="zh">陕西体育</title>
+    <programme channel="陕西体育休闲频道" start="20260611214100 +0800" stop="20260611223000 +0800">
+        <title lang="zh">黑土地</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612010000 +0800" stop="20260612021000 +0800">
-        <title lang="zh">夺宝秦兵</title>
+    <programme channel="陕西体育休闲频道" start="20260611223000 +0800" stop="20260611230000 +0800">
+        <title lang="zh">第一时间</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612021000 +0800" stop="20260612023000 +0800">
-        <title lang="zh">专题节目</title>
+    <programme channel="陕西体育休闲频道" start="20260611230000 +0800" stop="20260611230100 +0800">
+        <title lang="zh">中华人民共和国国歌</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612023000 +0800" stop="20260612023300 +0800">
-        <title lang="zh">频宣+导视</title>
+    <programme channel="陕西体育休闲频道" start="20260611230100 +0800" stop="20260611231500 +0800">
+        <title lang="zh">第一时间</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612023300 +0800" stop="20260612024800 +0800">
-        <title lang="zh">体育会客厅</title>
+    <programme channel="陕西体育休闲频道" start="20260611231500 +0800" stop="20260611233100 +0800">
+        <title lang="zh">直通市县区</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612024800 +0800" stop="20260612030900 +0800">
-        <title lang="zh">陕西体育</title>
+    <programme channel="陕西体育休闲频道" start="20260611233100 +0800" stop="20260612000400 +0800">
+        <title lang="zh">乐享食光</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612030900 +0800" stop="20260612033900 +0800">
-        <title lang="zh">剧场:孤战迷城-13</title>
+    <programme channel="陕西体育休闲频道" start="20260612000400 +0800" stop="20260612003600 +0800">
+        <title lang="zh">动画片:疾风劲射第二季</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612033900 +0800" stop="20260612035900 +0800">
-        <title lang="zh">专题节目</title>
+    <programme channel="陕西体育休闲频道" start="20260612003600 +0800" stop="20260612011100 +0800">
+        <title lang="zh">白天剧场:正阳门下小女人34</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260612011100 +0800" stop="20260612013100 +0800">
+        <title lang="zh">生活服务</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260612013100 +0800" stop="20260612020600 +0800">
+        <title lang="zh">白天剧场:正阳门下小女人35</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260612020600 +0800" stop="20260612022700 +0800">
+        <title lang="zh">生活服务</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260612022700 +0800" stop="20260612025200 +0800">
+        <title lang="zh">白天剧场:正阳门下小女人36(上)</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260612025200 +0800" stop="20260612031200 +0800">
+        <title lang="zh">生活服务</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260612031200 +0800" stop="20260612033700 +0800">
+        <title lang="zh">白天剧场:正阳门下小女人36(下)</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260612033700 +0800" stop="20260612035900 +0800">
+        <title lang="zh">生活服务</title>
     </programme>
     <programme channel="陕西体育休闲频道" start="20260612035900 +0800" stop="20260612040000 +0800">
-        <title lang="zh">导视</title>
+        <title lang="zh">海洋预报</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612040000 +0800" stop="20260612052500 +0800">
-        <title lang="zh">夺宝秦兵</title>
+    <programme channel="陕西体育休闲频道" start="20260612040000 +0800" stop="20260612045100 +0800">
+        <title lang="zh">说天下</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612052500 +0800" stop="20260612054500 +0800">
-        <title lang="zh">专题节目</title>
+    <programme channel="陕西体育休闲频道" start="20260612045100 +0800" stop="20260612051300 +0800">
+        <title lang="zh">生活服务</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612054500 +0800" stop="20260612055500 +0800">
-        <title lang="zh">赛事集锦</title>
+    <programme channel="陕西体育休闲频道" start="20260612051300 +0800" stop="20260612054100 +0800">
+        <title lang="zh">白天剧场:正阳门下小女人37</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612055500 +0800" stop="20260612061000 +0800">
-        <title lang="zh">体育会客厅</title>
+    <programme channel="陕西体育休闲频道" start="20260612054100 +0800" stop="20260612060400 +0800">
+        <title lang="zh">生活服务</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612061000 +0800" stop="20260612064000 +0800">
-        <title lang="zh">剧场:孤战迷城-14</title>
+    <programme channel="陕西体育休闲频道" start="20260612060400 +0800" stop="20260612063200 +0800">
+        <title lang="zh">白天剧场:正阳门下小女人38</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612064000 +0800" stop="20260612070000 +0800">
-        <title lang="zh">专题节目</title>
+    <programme channel="陕西体育休闲频道" start="20260612063200 +0800" stop="20260612065300 +0800">
+        <title lang="zh">生活服务</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612070000 +0800" stop="20260612070100 +0800">
-        <title lang="zh">导视</title>
+    <programme channel="陕西体育休闲频道" start="20260612065300 +0800" stop="20260612071900 +0800">
+        <title lang="zh">白天剧场:正阳门下小女人39(上)</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612070100 +0800" stop="20260612073100 +0800">
-        <title lang="zh">剧场:孤战迷城-15</title>
+    <programme channel="陕西体育休闲频道" start="20260612071900 +0800" stop="20260612073900 +0800">
+        <title lang="zh">生活服务</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612073100 +0800" stop="20260612075100 +0800">
-        <title lang="zh">专题节目</title>
+    <programme channel="陕西体育休闲频道" start="20260612073900 +0800" stop="20260612081100 +0800">
+        <title lang="zh">白天剧场:正阳门下小女人39(下)</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612075100 +0800" stop="20260612075500 +0800">
-        <title lang="zh">导视+广告</title>
+    <programme channel="陕西体育休闲频道" start="20260612081100 +0800" stop="20260612083500 +0800">
+        <title lang="zh">生活服务</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612075500 +0800" stop="20260612082500 +0800">
-        <title lang="zh">剧场:孤战迷城-16</title>
+    <programme channel="陕西体育休闲频道" start="20260612083500 +0800" stop="20260612083900 +0800">
+        <title lang="zh">欢乐集结号</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612082500 +0800" stop="20260612084500 +0800">
-        <title lang="zh">专题节目</title>
+    <programme channel="陕西体育休闲频道" start="20260612083900 +0800" stop="20260612094200 +0800">
+        <title lang="zh">欢乐集结号</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612084500 +0800" stop="20260612085000 +0800">
-        <title lang="zh">广告+导视</title>
+    <programme channel="陕西体育休闲频道" start="20260612094200 +0800" stop="20260612094300 +0800">
+        <title lang="zh">乐享食光</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612085000 +0800" stop="20260612092000 +0800">
-        <title lang="zh">剧场:孤战迷城-17</title>
+    <programme channel="陕西体育休闲频道" start="20260612094300 +0800" stop="20260612101200 +0800">
+        <title lang="zh">乐享食光</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612092000 +0800" stop="20260612094000 +0800">
-        <title lang="zh">专题节目</title>
+    <programme channel="陕西体育休闲频道" start="20260612101200 +0800" stop="20260612101300 +0800">
+        <title lang="zh">欢乐点点</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612094000 +0800" stop="20260612095500 +0800">
-        <title lang="zh">体育会客厅</title>
+    <programme channel="陕西体育休闲频道" start="20260612101300 +0800" stop="20260612102200 +0800">
+        <title lang="zh">东北超集锦</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612095500 +0800" stop="20260612095600 +0800">
-        <title lang="zh">导视</title>
+    <programme channel="陕西体育休闲频道" start="20260612102200 +0800" stop="20260612102400 +0800">
+        <title lang="zh">气象资讯</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612095600 +0800" stop="20260612102600 +0800">
-        <title lang="zh">剧场:孤战迷城-18</title>
+    <programme channel="陕西体育休闲频道" start="20260612102400 +0800" stop="20260612103000 +0800">
+        <title lang="zh">气象资讯</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612102600 +0800" stop="20260612104600 +0800">
-        <title lang="zh">专题节目</title>
+    <programme channel="陕西体育休闲频道" start="20260612103000 +0800" stop="20260612110000 +0800">
+        <title lang="zh">辽宁新闻</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612104600 +0800" stop="20260612110600 +0800">
-        <title lang="zh">天下赛场</title>
+    <programme channel="陕西体育休闲频道" start="20260612110000 +0800" stop="20260612113000 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612110600 +0800" stop="20260612111000 +0800">
-        <title lang="zh">广告+导视</title>
+    <programme channel="陕西体育休闲频道" start="20260612113000 +0800" stop="20260612113200 +0800">
+        <title lang="zh">广告</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612111000 +0800" stop="20260612121500 +0800">
-        <title lang="zh">开心智斗</title>
+    <programme channel="陕西体育休闲频道" start="20260612113200 +0800" stop="20260612113700 +0800">
+        <title lang="zh">东北地区城市足球联赛</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612121500 +0800" stop="20260612125500 +0800">
-        <title lang="zh">专题节目</title>
+    <programme channel="陕西体育休闲频道" start="20260612113700 +0800" stop="20260612121100 +0800">
+        <title lang="zh">北方剧场:幸福到万家24</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612125500 +0800" stop="20260612130000 +0800">
-        <title lang="zh">广告+导视</title>
+    <programme channel="陕西体育休闲频道" start="20260612121100 +0800" stop="20260612122200 +0800">
+        <title lang="zh">广告</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612130000 +0800" stop="20260612132000 +0800">
-        <title lang="zh">陕西体育</title>
+    <programme channel="陕西体育休闲频道" start="20260612122200 +0800" stop="20260612125600 +0800">
+        <title lang="zh">北方剧场:幸福到万家25</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612132000 +0800" stop="20260612132500 +0800">
-        <title lang="zh">广告+导视</title>
+    <programme channel="陕西体育休闲频道" start="20260612125600 +0800" stop="20260612130000 +0800">
+        <title lang="zh">广告</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612132500 +0800" stop="20260612144100 +0800">
-        <title lang="zh">夺宝秦兵</title>
+    <programme channel="陕西体育休闲频道" start="20260612130000 +0800" stop="20260612134500 +0800">
+        <title lang="zh">故事刚刚好</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612144100 +0800" stop="20260612150100 +0800">
-        <title lang="zh">专题节目</title>
+    <programme channel="陕西体育休闲频道" start="20260612134500 +0800" stop="20260612140300 +0800">
+        <title lang="zh">辽宁晚新闻</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612150100 +0800" stop="20260612150200 +0800">
-        <title lang="zh">导视</title>
+    <programme channel="陕西体育休闲频道" start="20260612140300 +0800" stop="20260612143400 +0800">
+        <title lang="zh">欢乐集结号</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612150200 +0800" stop="20260612153200 +0800">
-        <title lang="zh">搏击王</title>
+    <programme channel="陕西体育休闲频道" start="20260612143400 +0800" stop="20260612150300 +0800">
+        <title lang="zh">生活服务</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612153200 +0800" stop="20260612153300 +0800">
-        <title lang="zh">导视</title>
+    <programme channel="陕西体育休闲频道" start="20260612150300 +0800" stop="20260612153300 +0800">
+        <title lang="zh">纪录片:跨越时空的四库全书5</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260612153300 +0800" stop="20260612160000 +0800">
-        <title lang="zh">天下赛场</title>
+    <programme channel="陕西体育休闲频道" start="20260612153300 +0800" stop="20260612163100 +0800">
+        <title lang="zh">欢乐点点</title>
     </programme>
     <channel id="24小时城市联赛轮播台">
         <display-name lang="zh">24小时城市联赛轮播台</display-name>
