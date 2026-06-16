@@ -1419,13 +1419,13 @@
     <programme channel="CCTV15音乐" start="20260616113000 +0800" stop="20260616125130 +0800">
         <title lang="zh">CCTV音乐厅-神采正飞扬-中国郎之夜·阜阳</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260616125130 +0800" stop="20260616140700 +0800">
-        <title lang="zh">民歌·中国-2026-27</title>
+    <programme channel="CCTV15音乐" start="20260616125130 +0800" stop="20260616143700 +0800">
+        <title lang="zh">2023维也纳美泉宫夏季音乐会-纯享版</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260616140700 +0800" stop="20260616152230 +0800">
+    <programme channel="CCTV15音乐" start="20260616143700 +0800" stop="20260616155230 +0800">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-242</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260616152230 +0800" stop="20260616155900 +0800">
+    <programme channel="CCTV15音乐" start="20260616155230 +0800" stop="20260616155900 +0800">
         <title lang="zh">CCTV音乐厅-2026-116-国风交响·中国当代作品系列音乐会（9）</title>
     </programme>
     <channel id="CCTV17农业农村">
@@ -4428,7 +4428,7 @@
     <programme channel="河北卫视" start="20260616153400 +0800" stop="20260616153700 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260616153700 +0800" stop="20260616160000 +0800">
+    <programme channel="河北卫视" start="20260616153700 +0800" stop="20260616161100 +0800">
         <title lang="zh">纪录片：纪录</title>
     </programme>
     <channel id="江西卫视">
@@ -6174,80 +6174,77 @@
     <channel id="上视东方影视">
         <display-name lang="zh">上视东方影视</display-name>
     </channel>
-    <programme channel="上视东方影视" start="20260615155200 +0800" stop="20260615164700 +0800">
+    <programme channel="上视东方影视" start="20260615155200 +0800" stop="20260615162800 +0800">
         <title lang="zh">30集连续剧：独狼（5）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260615164700 +0800" stop="20260615220800 +0800">
+    <programme channel="上视东方影视" start="20260615162800 +0800" stop="20260615221100 +0800">
         <title lang="zh">30集连续剧：独狼（6）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260615220800 +0800" stop="20260615230200 +0800">
+    <programme channel="上视东方影视" start="20260615221100 +0800" stop="20260615230400 +0800">
         <title lang="zh">42集连续剧：决战燕子门（19）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260615230200 +0800" stop="20260616000200 +0800">
+    <programme channel="上视东方影视" start="20260615230400 +0800" stop="20260616000200 +0800">
         <title lang="zh">42集连续剧：决战燕子门（20）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260616000200 +0800" stop="20260616010100 +0800">
+    <programme channel="上视东方影视" start="20260616000200 +0800" stop="20260616005500 +0800">
         <title lang="zh">40集连续剧：地道女英雄（34）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260616010100 +0800" stop="20260616015600 +0800">
+    <programme channel="上视东方影视" start="20260616005500 +0800" stop="20260616014700 +0800">
         <title lang="zh">40集连续剧：地道女英雄（35）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260616015600 +0800" stop="20260616025100 +0800">
+    <programme channel="上视东方影视" start="20260616014700 +0800" stop="20260616023800 +0800">
         <title lang="zh">40集连续剧：地道女英雄（36）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260616025100 +0800" stop="20260616034900 +0800">
+    <programme channel="上视东方影视" start="20260616023800 +0800" stop="20260616033000 +0800">
         <title lang="zh">40集连续剧：地道女英雄（37）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260616034900 +0800" stop="20260616044600 +0800">
+    <programme channel="上视东方影视" start="20260616033000 +0800" stop="20260616044000 +0800">
         <title lang="zh">40集连续剧：地道女英雄（38）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260616044600 +0800" stop="20260616053000 +0800">
+    <programme channel="上视东方影视" start="20260616044000 +0800" stop="20260616052800 +0800">
         <title lang="zh">42集连续剧：善始善终（37）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260616053000 +0800" stop="20260616054500 +0800">
+    <programme channel="上视东方影视" start="20260616052800 +0800" stop="20260616054500 +0800">
         <title lang="zh">都市焕新家</title>
     </programme>
-    <programme channel="上视东方影视" start="20260616054500 +0800" stop="20260616063900 +0800">
+    <programme channel="上视东方影视" start="20260616054500 +0800" stop="20260616063700 +0800">
         <title lang="zh">42集连续剧：善始善终（38）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260616063900 +0800" stop="20260616073300 +0800">
+    <programme channel="上视东方影视" start="20260616063700 +0800" stop="20260616073300 +0800">
         <title lang="zh">42集连续剧：善始善终（39）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260616073300 +0800" stop="20260616082600 +0800">
+    <programme channel="上视东方影视" start="20260616073300 +0800" stop="20260616082500 +0800">
         <title lang="zh">28集连续剧：决战风铃渡（25）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260616082600 +0800" stop="20260616091800 +0800">
+    <programme channel="上视东方影视" start="20260616082500 +0800" stop="20260616091700 +0800">
         <title lang="zh">28集连续剧：决战风铃渡（26）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260616091800 +0800" stop="20260616100500 +0800">
+    <programme channel="上视东方影视" start="20260616091700 +0800" stop="20260616100800 +0800">
         <title lang="zh">28集连续剧：决战风铃渡（27）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260616100500 +0800" stop="20260616105000 +0800">
+    <programme channel="上视东方影视" start="20260616100800 +0800" stop="20260616105000 +0800">
         <title lang="zh">28集连续剧：决战风铃渡（28）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260616105000 +0800" stop="20260616113900 +0800">
+    <programme channel="上视东方影视" start="20260616105000 +0800" stop="20260616114300 +0800">
         <title lang="zh">35集连续剧：我的铁血金戈梦（1）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260616113900 +0800" stop="20260616123200 +0800">
+    <programme channel="上视东方影视" start="20260616114300 +0800" stop="20260616123600 +0800">
         <title lang="zh">35集连续剧：我的铁血金戈梦（2）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260616123200 +0800" stop="20260616132100 +0800">
+    <programme channel="上视东方影视" start="20260616123600 +0800" stop="20260616132900 +0800">
         <title lang="zh">35集连续剧：我的铁血金戈梦（3）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260616132100 +0800" stop="20260616140900 +0800">
+    <programme channel="上视东方影视" start="20260616132900 +0800" stop="20260616141400 +0800">
         <title lang="zh">40集连续剧：地道女英雄（39）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260616140900 +0800" stop="20260616150000 +0800">
+    <programme channel="上视东方影视" start="20260616141400 +0800" stop="20260616150300 +0800">
         <title lang="zh">40集连续剧：地道女英雄（40）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260616150000 +0800" stop="20260616153700 +0800">
+    <programme channel="上视东方影视" start="20260616150300 +0800" stop="20260616154500 +0800">
         <title lang="zh">30集连续剧：独狼（7）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260616153700 +0800" stop="20260616155300 +0800">
+    <programme channel="上视东方影视" start="20260616154500 +0800" stop="20260616162700 +0800">
         <title lang="zh">30集连续剧：独狼（8）</title>
-    </programme>
-    <programme channel="上视东方影视" start="20260616155300 +0800" stop="20260616220800 +0800">
-        <title lang="zh">30集连续剧：独狼（9）</title>
     </programme>
     <channel id="上海第一财经">
         <display-name lang="zh">上海第一财经</display-name>
