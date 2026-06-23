@@ -103,10 +103,10 @@
         <title lang="zh">星月征途第20集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260623125310 +0800" stop="20260623125630 +0800">
-        <title lang="zh">前情提要-电视剧（高清文件）</title>
+        <title lang="zh">前情提要-种墨园-第1集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260623125630 +0800" stop="20260623134430 +0800">
-        <title lang="zh">电视剧-（高清文件）</title>
+        <title lang="zh">种墨园第1集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260623134430 +0800" stop="20260623135200 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
@@ -588,13 +588,13 @@
     <programme channel="CCTV6电影" start="20260623082736 +0800" stop="20260623101127 +0800">
         <title lang="zh">雾都神探之绝情箭</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260623101127 +0800" stop="20260623120000 +0800">
+    <programme channel="CCTV6电影" start="20260623101127 +0800" stop="20260623115950 +0800">
         <title lang="zh">杀破狼·贪狼</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260623120000 +0800" stop="20260623130130 +0800">
+    <programme channel="CCTV6电影" start="20260623115950 +0800" stop="20260623125430 +0800">
         <title lang="zh">第23届电影频道传媒关注单元闭幕仪式01</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260623130130 +0800" stop="20260623140000 +0800">
+    <programme channel="CCTV6电影" start="20260623125430 +0800" stop="20260623140000 +0800">
         <title lang="zh">第23届电影频道传媒关注单元闭幕仪式02</title>
     </programme>
     <programme channel="CCTV6电影" start="20260623140000 +0800" stop="20260623141800 +0800">
@@ -844,13 +844,13 @@
         <title lang="zh">本集提要-爱情有烟火-第15集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260623132940 +0800" stop="20260623141940 +0800">
-        <title lang="zh">爱情有烟火15/36</title>
+        <title lang="zh">爱情有烟火第15集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260623141940 +0800" stop="20260623142140 +0800">
-        <title lang="zh">本集提要-爱情有烟火-16/36</title>
+        <title lang="zh">本集提要-爱情有烟火-第16集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260623142140 +0800" stop="20260623151140 +0800">
-        <title lang="zh">爱情有烟火16/36</title>
+        <title lang="zh">爱情有烟火第16集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260623151140 +0800" stop="20260623155740 +0800">
         <title lang="zh">风雨送春归第12集</title>
@@ -4452,7 +4452,7 @@
     <programme channel="河北卫视" start="20260623153000 +0800" stop="20260623153300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260623153300 +0800" stop="20260623160000 +0800">
+    <programme channel="河北卫视" start="20260623153300 +0800" stop="20260623160300 +0800">
         <title lang="zh">纪录片：纪录</title>
     </programme>
     <channel id="江西卫视">
@@ -10521,49 +10521,55 @@
     <channel id="嘉佳卡通">
         <display-name lang="zh">嘉佳卡通</display-name>
     </channel>
-    <programme channel="嘉佳卡通" start="20260622160000 +0800" stop="20260622220000 +0800">
-        <title lang="zh">巴啦啦小魔仙之魔法星缘堡</title>
+    <programme channel="嘉佳卡通" start="20260622160000 +0800" stop="20260622214200 +0800">
+        <title lang="zh">巴啦啦小魔仙之飞越彩灵堡</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260622220000 +0800" stop="20260623000000 +0800">
+    <programme channel="嘉佳卡通" start="20260622214200 +0800" stop="20260622220200 +0800">
+        <title lang="zh">奶龙与小七之大战暴暴龙</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260622220200 +0800" stop="20260623000400 +0800">
         <title lang="zh">猪猪侠之竞速小英雄八</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260623000000 +0800" stop="20260623021500 +0800">
+    <programme channel="嘉佳卡通" start="20260623000400 +0800" stop="20260623010900 +0800">
+        <title lang="zh">超级飞侠二十</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260623010900 +0800" stop="20260623033000 +0800">
         <title lang="zh">薇薇猫的日常</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260623021500 +0800" stop="20260623030500 +0800">
-        <title lang="zh">奶龙搞怪大作战二</title>
+    <programme channel="嘉佳卡通" start="20260623033000 +0800" stop="20260623035900 +0800">
+        <title lang="zh">奶龙与小七之大战暴暴龙</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260623030500 +0800" stop="20260623033000 +0800">
-        <title lang="zh">盟卡车神之魔幻元珠二</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20260623033000 +0800" stop="20260623060500 +0800">
-        <title lang="zh">奶龙搞怪大作战</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20260623060500 +0800" stop="20260623070000 +0800">
-        <title lang="zh">《高光星少年》六一盛典</title>
-    </programme>
-    <programme channel="嘉佳卡通" start="20260623070000 +0800" stop="20260623081000 +0800">
+    <programme channel="嘉佳卡通" start="20260623035900 +0800" stop="20260623060300 +0800">
         <title lang="zh">奶龙之奇妙冒险</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260623081000 +0800" stop="20260623083000 +0800">
+    <programme channel="嘉佳卡通" start="20260623060300 +0800" stop="20260623080800 +0800">
+        <title lang="zh">喜羊羊与灰太狼之羊村守护者四</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260623080800 +0800" stop="20260623083000 +0800">
         <title lang="zh">嘿，托玛</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260623083000 +0800" stop="20260623110000 +0800">
-        <title lang="zh">奶龙搞怪大作战二</title>
+    <programme channel="嘉佳卡通" start="20260623083000 +0800" stop="20260623085100 +0800">
+        <title lang="zh">奶龙与小七之大战暴暴龙</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260623110000 +0800" stop="20260623111500 +0800">
+    <programme channel="嘉佳卡通" start="20260623085100 +0800" stop="20260623110100 +0800">
+        <title lang="zh">奶龙之奇妙冒险</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260623110100 +0800" stop="20260623111300 +0800">
         <title lang="zh">咖宝车神之超能救援</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260623111500 +0800" stop="20260623120700 +0800">
-        <title lang="zh">喜羊羊与灰太狼之羊村守护者之六勇闯四季城</title>
+    <programme channel="嘉佳卡通" start="20260623111300 +0800" stop="20260623120100 +0800">
+        <title lang="zh">超级飞侠二十</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260623120700 +0800" stop="20260623122000 +0800">
-        <title lang="zh">湾区少年行</title>
+    <programme channel="嘉佳卡通" start="20260623120100 +0800" stop="20260623131000 +0800">
+        <title lang="zh">喜羊羊与灰太狼之羊村守护者六</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260623122000 +0800" stop="20260623140500 +0800">
-        <title lang="zh">喜羊羊与灰太狼之羊村守护者之六勇闯四季城</title>
+    <programme channel="嘉佳卡通" start="20260623131000 +0800" stop="20260623131100 +0800">
+        <title lang="zh">2026遇见中华诗词之美</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20260623140500 +0800" stop="20260623160000 +0800">
+    <programme channel="嘉佳卡通" start="20260623131100 +0800" stop="20260623135900 +0800">
+        <title lang="zh">喜羊羊与灰太狼之羊村守护者六</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260623135900 +0800" stop="20260623160100 +0800">
         <title lang="zh">猪猪侠之竞速小英雄八</title>
     </programme>
     <channel id="经典动画大集合">
