@@ -103,13 +103,13 @@
         <title lang="zh">前情提要-种墨园-第4集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260625120500 +0800" stop="20260625125455 +0800">
-        <title lang="zh">种墨园4/34</title>
+        <title lang="zh">种墨园第4集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260625125455 +0800" stop="20260625125800 +0800">
         <title lang="zh">前情提要-种墨园-第5集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260625125800 +0800" stop="20260625134700 +0800">
-        <title lang="zh">种墨园5/34</title>
+        <title lang="zh">种墨园第5集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260625134700 +0800" stop="20260625135330 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
@@ -868,13 +868,13 @@
         <title lang="zh">本集提要-爱情有烟火-第19集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260625132940 +0800" stop="20260625141940 +0800">
-        <title lang="zh">爱情有烟火19/36</title>
+        <title lang="zh">爱情有烟火第19集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260625141940 +0800" stop="20260625142140 +0800">
         <title lang="zh">本集提要-爱情有烟火-第20集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260625142140 +0800" stop="20260625151140 +0800">
-        <title lang="zh">爱情有烟火20/36</title>
+        <title lang="zh">爱情有烟火第20集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260625151140 +0800" stop="20260625155740 +0800">
         <title lang="zh">风雨送春归第26集</title>
@@ -4224,7 +4224,7 @@
     <programme channel="广东卫视" start="20260625150500 +0800" stop="20260625154500 +0800">
         <title lang="zh">雪迷宫(23)</title>
     </programme>
-    <programme channel="广东卫视" start="20260625154500 +0800" stop="20260625160000 +0800">
+    <programme channel="广东卫视" start="20260625154500 +0800" stop="20260625161300 +0800">
         <title lang="zh">南粤4K画卷</title>
     </programme>
     <channel id="北京卫视">
@@ -4650,7 +4650,7 @@
     <programme channel="河北卫视" start="20260625154100 +0800" stop="20260625154700 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260625154700 +0800" stop="20260625160000 +0800">
+    <programme channel="河北卫视" start="20260625154700 +0800" stop="20260625162500 +0800">
         <title lang="zh">中国经济圆桌会</title>
     </programme>
     <channel id="江西卫视">
