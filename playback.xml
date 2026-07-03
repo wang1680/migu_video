@@ -1320,13 +1320,13 @@
     <programme channel="CCTV13新闻" start="20260702203300 +0800" stop="20260702210000 +0800">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260702210000 +0800" stop="20260702211800 +0800">
+    <programme channel="CCTV13新闻" start="20260702210000 +0800" stop="20260702212800 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260702211800 +0800" stop="20260702213400 +0800">
+    <programme channel="CCTV13新闻" start="20260702212800 +0800" stop="20260702214400 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260702213400 +0800" stop="20260702220000 +0800">
+    <programme channel="CCTV13新闻" start="20260702214400 +0800" stop="20260702220000 +0800">
         <title lang="zh">法治在线</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260702220000 +0800" stop="20260703010000 +0800">
@@ -4482,7 +4482,7 @@
     <programme channel="河北卫视" start="20260703155100 +0800" stop="20260703155400 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260703155400 +0800" stop="20260703160000 +0800">
+    <programme channel="河北卫视" start="20260703155400 +0800" stop="20260703162400 +0800">
         <title lang="zh">纪录片：纪录</title>
     </programme>
     <channel id="江西卫视">
