@@ -100,13 +100,13 @@
         <title lang="zh">前情提要-种墨园-第26集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260714120200 +0800" stop="20260714125325 +0800">
-        <title lang="zh">种墨园26/34</title>
+        <title lang="zh">种墨园第26集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260714125325 +0800" stop="20260714125550 +0800">
         <title lang="zh">前情提要-种墨园-第27集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260714125550 +0800" stop="20260714134425 +0800">
-        <title lang="zh">种墨园27/34</title>
+        <title lang="zh">种墨园第27集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260714134425 +0800" stop="20260714135125 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
@@ -868,13 +868,13 @@
         <title lang="zh">本集提要-小芳-第3集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260714132940 +0800" stop="20260714141940 +0800">
-        <title lang="zh">小芳3/18</title>
+        <title lang="zh">小芳第3集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260714141940 +0800" stop="20260714142140 +0800">
         <title lang="zh">本集提要-小芳-第4集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260714142140 +0800" stop="20260714151140 +0800">
-        <title lang="zh">小芳4/18</title>
+        <title lang="zh">小芳第4集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260714151140 +0800" stop="20260714155740 +0800">
         <title lang="zh">岁月有情时第14集</title>
@@ -4410,7 +4410,7 @@
     <programme channel="河北卫视" start="20260714153000 +0800" stop="20260714153300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260714153300 +0800" stop="20260714160000 +0800">
+    <programme channel="河北卫视" start="20260714153300 +0800" stop="20260714170600 +0800">
         <title lang="zh">我们的日子</title>
     </programme>
     <channel id="江西卫视">
