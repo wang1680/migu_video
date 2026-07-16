@@ -979,7 +979,7 @@
         <title lang="zh">魅力万象2026-197</title>
     </programme>
     <programme channel="CCTV9纪录" start="20260716112700 +0800" stop="20260716120000 +0800">
-        <title lang="zh">活力·源2026-197</title>
+        <title lang="zh">活力·源2026-192</title>
     </programme>
     <programme channel="CCTV9纪录" start="20260716120000 +0800" stop="20260716130000 +0800">
         <title lang="zh">特别呈现2026-197</title>
@@ -3417,29 +3417,26 @@
     <programme channel="陕西体育休闲频道" start="20260715232000 +0800" stop="20260715235000 +0800">
         <title lang="zh">体育时间</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260715235000 +0800" stop="20260716001000 +0800">
-        <title lang="zh">天下赛场</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260716001000 +0800" stop="20260716004000 +0800">
+    <programme channel="陕西体育休闲频道" start="20260715235000 +0800" stop="20260716002000 +0800">
         <title lang="zh">剧场:夺金战-54</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260716004000 +0800" stop="20260716010000 +0800">
-        <title lang="zh">陕西体育</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260716010000 +0800" stop="20260716021000 +0800">
+    <programme channel="陕西体育休闲频道" start="20260716002000 +0800" stop="20260716013000 +0800">
         <title lang="zh">夺宝秦兵</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260716021000 +0800" stop="20260716023000 +0800">
+    <programme channel="陕西体育休闲频道" start="20260716013000 +0800" stop="20260716015000 +0800">
         <title lang="zh">专题节目</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260716023000 +0800" stop="20260716023300 +0800">
+    <programme channel="陕西体育休闲频道" start="20260716015000 +0800" stop="20260716022000 +0800">
+        <title lang="zh">直播：陕西省第十八届运动会火种采集仪式</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260716022000 +0800" stop="20260716022300 +0800">
         <title lang="zh">频宣+导视</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260716023300 +0800" stop="20260716024800 +0800">
+    <programme channel="陕西体育休闲频道" start="20260716022300 +0800" stop="20260716023800 +0800">
         <title lang="zh">体育会客厅</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20260716024800 +0800" stop="20260716030900 +0800">
-        <title lang="zh">陕西体育</title>
+    <programme channel="陕西体育休闲频道" start="20260716023800 +0800" stop="20260716030900 +0800">
+        <title lang="zh">体育时间</title>
     </programme>
     <programme channel="陕西体育休闲频道" start="20260716030900 +0800" stop="20260716033900 +0800">
         <title lang="zh">剧场:夺金战-55</title>
@@ -4020,7 +4017,7 @@
     <programme channel="广东卫视" start="20260716150500 +0800" stop="20260716154500 +0800">
         <title lang="zh">秋蝉(6)</title>
     </programme>
-    <programme channel="广东卫视" start="20260716154500 +0800" stop="20260716160000 +0800">
+    <programme channel="广东卫视" start="20260716154500 +0800" stop="20260716161400 +0800">
         <title lang="zh">南粤4K画卷</title>
     </programme>
     <channel id="北京卫视">
@@ -4293,7 +4290,7 @@
     <programme channel="辽宁卫视" start="20260716150300 +0800" stop="20260716153700 +0800">
         <title lang="zh">纪录片(上)</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260716153700 +0800" stop="20260716160000 +0800">
+    <programme channel="辽宁卫视" start="20260716153700 +0800" stop="20260716163000 +0800">
         <title lang="zh">欢乐点点</title>
     </programme>
     <channel id="河北卫视">
@@ -4443,7 +4440,7 @@
     <programme channel="河北卫视" start="20260716153000 +0800" stop="20260716153500 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260716153500 +0800" stop="20260716160000 +0800">
+    <programme channel="河北卫视" start="20260716153500 +0800" stop="20260716170900 +0800">
         <title lang="zh">我们的日子</title>
     </programme>
     <channel id="江西卫视">
@@ -6273,76 +6270,88 @@
     <programme channel="上视东方影视" start="20260715154500 +0800" stop="20260715162700 +0800">
         <title lang="zh">53集连续剧：战神（18）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260715162700 +0800" stop="20260715220800 +0800">
+    <programme channel="上视东方影视" start="20260715162700 +0800" stop="20260715220100 +0800">
         <title lang="zh">53集连续剧：战神（19）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260715220800 +0800" stop="20260715224900 +0800">
+    <programme channel="上视东方影视" start="20260715220100 +0800" stop="20260715220400 +0800">
+        <title lang="zh">妙手小贴士（13）爸妈喜欢看电影</title>
+    </programme>
+    <programme channel="上视东方影视" start="20260715220400 +0800" stop="20260715221200 +0800">
+        <title lang="zh">环球家乡味(3)第三章</title>
+    </programme>
+    <programme channel="上视东方影视" start="20260715221200 +0800" stop="20260715230300 +0800">
         <title lang="zh">40集连续剧：勇者（1）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260715224900 +0800" stop="20260715233600 +0800">
-        <title lang="zh">开心全接触-健身时代(4)</title>
+    <programme channel="上视东方影视" start="20260715230300 +0800" stop="20260715235800 +0800">
+        <title lang="zh">40集连续剧：勇者（2）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260715233600 +0800" stop="20260716003300 +0800">
+    <programme channel="上视东方影视" start="20260715235800 +0800" stop="20260716000200 +0800">
+        <title lang="zh">妙手小贴士（19）纪念品商店可以接受扫码</title>
+    </programme>
+    <programme channel="上视东方影视" start="20260716000200 +0800" stop="20260716005400 +0800">
         <title lang="zh">34集连续剧：踏破硝烟（30）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260716003300 +0800" stop="20260716012700 +0800">
+    <programme channel="上视东方影视" start="20260716005400 +0800" stop="20260716014600 +0800">
         <title lang="zh">34集连续剧：踏破硝烟（31）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260716012700 +0800" stop="20260716022300 +0800">
+    <programme channel="上视东方影视" start="20260716014600 +0800" stop="20260716024000 +0800">
         <title lang="zh">34集连续剧：踏破硝烟（32）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260716022300 +0800" stop="20260716031700 +0800">
+    <programme channel="上视东方影视" start="20260716024000 +0800" stop="20260716033400 +0800">
         <title lang="zh">34集连续剧：踏破硝烟（33）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260716031700 +0800" stop="20260716035500 +0800">
+    <programme channel="上视东方影视" start="20260716033400 +0800" stop="20260716042400 +0800">
         <title lang="zh">34集连续剧：踏破硝烟（34）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260716035500 +0800" stop="20260716044500 +0800">
-        <title lang="zh">开心全接触-健身时代(4)</title>
+    <programme channel="上视东方影视" start="20260716042400 +0800" stop="20260716043200 +0800">
+        <title lang="zh">环球家乡味(5)第三章</title>
     </programme>
-    <programme channel="上视东方影视" start="20260716044500 +0800" stop="20260716053300 +0800">
+    <programme channel="上视东方影视" start="20260716043200 +0800" stop="20260716044000 +0800">
+        <title lang="zh">妙手小贴士（11）开车时禁止打电话</title>
+    </programme>
+    <programme channel="上视东方影视" start="20260716044000 +0800" stop="20260716052700 +0800">
         <title lang="zh">47集连续剧：旗袍（3）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260716053300 +0800" stop="20260716054900 +0800">
+    <programme channel="上视东方影视" start="20260716052700 +0800" stop="20260716054300 +0800">
         <title lang="zh">都市焕新家(240)</title>
     </programme>
-    <programme channel="上视东方影视" start="20260716054900 +0800" stop="20260716064400 +0800">
+    <programme channel="上视东方影视" start="20260716054300 +0800" stop="20260716063600 +0800">
         <title lang="zh">47集连续剧：旗袍（4）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260716064400 +0800" stop="20260716073700 +0800">
+    <programme channel="上视东方影视" start="20260716063600 +0800" stop="20260716073500 +0800">
         <title lang="zh">47集连续剧：旗袍（5）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260716073700 +0800" stop="20260716082900 +0800">
+    <programme channel="上视东方影视" start="20260716073500 +0800" stop="20260716082600 +0800">
         <title lang="zh">36集连续剧：杀出黎明（15）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260716082900 +0800" stop="20260716092000 +0800">
+    <programme channel="上视东方影视" start="20260716082600 +0800" stop="20260716091700 +0800">
         <title lang="zh">36集连续剧：杀出黎明（16）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260716092000 +0800" stop="20260716101100 +0800">
+    <programme channel="上视东方影视" start="20260716091700 +0800" stop="20260716100800 +0800">
         <title lang="zh">36集连续剧：杀出黎明（17）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260716101100 +0800" stop="20260716105000 +0800">
+    <programme channel="上视东方影视" start="20260716100800 +0800" stop="20260716105000 +0800">
         <title lang="zh">36集连续剧：杀出黎明（18）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260716105000 +0800" stop="20260716113600 +0800">
+    <programme channel="上视东方影视" start="20260716105000 +0800" stop="20260716114100 +0800">
         <title lang="zh">36集连续剧：黎明绝杀（1）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260716113600 +0800" stop="20260716123300 +0800">
+    <programme channel="上视东方影视" start="20260716114100 +0800" stop="20260716123400 +0800">
         <title lang="zh">36集连续剧：黎明绝杀（2）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260716123300 +0800" stop="20260716132600 +0800">
+    <programme channel="上视东方影视" start="20260716123400 +0800" stop="20260716132600 +0800">
         <title lang="zh">36集连续剧：黎明绝杀（3）</title>
     </programme>
     <programme channel="上视东方影视" start="20260716132600 +0800" stop="20260716141300 +0800">
         <title lang="zh">36集连续剧：黎明绝杀（4）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260716141300 +0800" stop="20260716150500 +0800">
+    <programme channel="上视东方影视" start="20260716141300 +0800" stop="20260716150300 +0800">
         <title lang="zh">36集连续剧：黎明绝杀（5）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260716150500 +0800" stop="20260716154800 +0800">
+    <programme channel="上视东方影视" start="20260716150300 +0800" stop="20260716154600 +0800">
         <title lang="zh">53集连续剧：战神（20）</title>
     </programme>
-    <programme channel="上视东方影视" start="20260716154800 +0800" stop="20260716163000 +0800">
+    <programme channel="上视东方影视" start="20260716154600 +0800" stop="20260716162800 +0800">
         <title lang="zh">53集连续剧：战神（21）</title>
     </programme>
     <channel id="上海第一财经">
