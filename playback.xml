@@ -111,16 +111,19 @@
     <programme channel="CCTV1综合" start="20260731133055 +0800" stop="20260731133555 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260731133555 +0800" stop="20260731140000 +0800">
+    <programme channel="CCTV1综合" start="20260731133555 +0800" stop="20260731135035 +0800">
         <title lang="zh">中华古树-北京卧佛寺古蜡梅（4K）</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260731135035 +0800" stop="20260731140000 +0800">
+        <title lang="zh">三餐四季-宣传片</title>
     </programme>
     <programme channel="CCTV1综合" start="20260731140000 +0800" stop="20260731143530 +0800">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260731143530 +0800" stop="20260731152430 +0800">
+    <programme channel="CCTV1综合" start="20260731143530 +0800" stop="20260731152805 +0800">
         <title lang="zh">礼乐东方-3</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260731152430 +0800" stop="20260731155900 +0800">
+    <programme channel="CCTV1综合" start="20260731152805 +0800" stop="20260731155900 +0800">
         <title lang="zh">城市风华录（第二季）-佛山篇</title>
     </programme>
     <channel id="CCTV2财经">
@@ -4716,7 +4719,7 @@
     <programme channel="河北卫视" start="20260731153800 +0800" stop="20260731154100 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260731154100 +0800" stop="20260731160000 +0800">
+    <programme channel="河北卫视" start="20260731154100 +0800" stop="20260731161700 +0800">
         <title lang="zh">中国经济圆桌会</title>
     </programme>
     <channel id="江西卫视">
