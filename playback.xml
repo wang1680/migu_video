@@ -109,7 +109,7 @@
         <title lang="zh">晚间新闻</title>
     </programme>
     <programme channel="CCTV1综合" start="20260803143540 +0800" stop="20260803155900 +0800">
-        <title lang="zh">宗师列传·大唐诗人传-王昌龄</title>
+        <title lang="zh">宗师列传·大唐诗人传-岑参</title>
     </programme>
     <channel id="CCTV2财经">
         <display-name lang="zh">CCTV2财经</display-name>
@@ -4344,7 +4344,7 @@
     <programme channel="辽宁卫视" start="20260803153100 +0800" stop="20260803153300 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260803153300 +0800" stop="20260803160000 +0800">
+    <programme channel="辽宁卫视" start="20260803153300 +0800" stop="20260803162800 +0800">
         <title lang="zh">欢乐点点</title>
     </programme>
     <channel id="河北卫视">
