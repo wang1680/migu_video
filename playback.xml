@@ -516,13 +516,13 @@
     <programme channel="CCTV5体育" start="20260806082500 +0800" stop="20260806083000 +0800">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260806083000 +0800" stop="20260806100000 +0800">
+    <programme channel="CCTV5体育" start="20260806083000 +0800" stop="20260806110000 +0800">
         <title lang="zh">WTT横滨冠军赛1/8决赛1</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260806100000 +0800" stop="20260806103000 +0800">
+    <programme channel="CCTV5体育" start="20260806110000 +0800" stop="20260806113100 +0800">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260806103000 +0800" stop="20260806120000 +0800">
+    <programme channel="CCTV5体育" start="20260806113100 +0800" stop="20260806120000 +0800">
         <title lang="zh">WTT横滨冠军赛1/8决赛1</title>
     </programme>
     <programme channel="CCTV5体育" start="20260806120000 +0800" stop="20260806130000 +0800">
