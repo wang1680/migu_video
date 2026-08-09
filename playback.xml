@@ -291,10 +291,10 @@
     <programme channel="CCTV3综艺" start="20260809100910 +0800" stop="20260809113000 +0800">
         <title lang="zh">越战越勇-2026-29</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260809113000 +0800" stop="20260809115729 +0800">
+    <programme channel="CCTV3综艺" start="20260809113000 +0800" stop="20260809115759 +0800">
         <title lang="zh">CMG夏日歌会-陕西榆林站1/3</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260809115729 +0800" stop="20260809122451 +0800">
+    <programme channel="CCTV3综艺" start="20260809115759 +0800" stop="20260809122451 +0800">
         <title lang="zh">CMG夏日歌会-陕西榆林站2/3</title>
     </programme>
     <programme channel="CCTV3综艺" start="20260809122451 +0800" stop="20260809125345 +0800">
@@ -1407,16 +1407,22 @@
     <programme channel="CCTV15音乐" start="20260809101430 +0800" stop="20260809113000 +0800">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-324</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260809113000 +0800" stop="20260809131530 +0800">
-        <title lang="zh">CMG夏日歌会-陕西榆林站1</title>
+    <programme channel="CCTV15音乐" start="20260809113000 +0800" stop="20260809115759 +0800">
+        <title lang="zh">CMG夏日歌会-陕西榆林站1/3</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260809131530 +0800" stop="20260809145100 +0800">
+    <programme channel="CCTV15音乐" start="20260809115759 +0800" stop="20260809122451 +0800">
+        <title lang="zh">CMG夏日歌会-陕西榆林站2/3</title>
+    </programme>
+    <programme channel="CCTV15音乐" start="20260809122451 +0800" stop="20260809125915 +0800">
+        <title lang="zh">CMG夏日歌会-陕西榆林站 3/3</title>
+    </programme>
+    <programme channel="CCTV15音乐" start="20260809125915 +0800" stop="20260809143445 +0800">
         <title lang="zh">影视留声机-2026-110</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260809145100 +0800" stop="20260809155030 +0800">
+    <programme channel="CCTV15音乐" start="20260809143445 +0800" stop="20260809153415 +0800">
         <title lang="zh">CCTV音乐厅-2026-145-“时代乐潮”系列音乐会（2）</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260809155030 +0800" stop="20260809155900 +0800">
+    <programme channel="CCTV15音乐" start="20260809153415 +0800" stop="20260809155900 +0800">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-286</title>
     </programme>
     <channel id="CCTV17农业农村">
