@@ -895,13 +895,13 @@
         <title lang="zh">本集提要-重器-第32集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260825123040 +0800" stop="20260825132440 +0800">
-        <title lang="zh">重器32/33</title>
+        <title lang="zh">重器第32集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260825132440 +0800" stop="20260825132940 +0800">
         <title lang="zh">本集提要-重器-第33集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260825132940 +0800" stop="20260825141940 +0800">
-        <title lang="zh">重器33/33</title>
+        <title lang="zh">重器第33集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260825141940 +0800" stop="20260825142140 +0800">
         <title lang="zh">本集提要-能有多大事-第21集</title>
@@ -8235,10 +8235,10 @@
     <channel id="陕西银龄频道">
         <display-name lang="zh">陕西银龄频道</display-name>
     </channel>
-    <programme channel="陕西银龄频道" start="20260824160000 +0800" stop="20260824161900 +0800">
+    <programme channel="陕西银龄频道" start="20260824160000 +0800" stop="20260824162200 +0800">
         <title lang="zh">长安故事 剧说那些事儿</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260824161900 +0800" stop="20260824214500 +0800">
+    <programme channel="陕西银龄频道" start="20260824162200 +0800" stop="20260824214500 +0800">
         <title lang="zh">长安故事 剧说那些事儿</title>
     </programme>
     <programme channel="陕西银龄频道" start="20260824214500 +0800" stop="20260824214800 +0800">
@@ -8259,86 +8259,89 @@
     <programme channel="陕西银龄频道" start="20260824230800 +0800" stop="20260824232300 +0800">
         <title lang="zh">银龄练起来</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260824232300 +0800" stop="20260825000200 +0800">
+    <programme channel="陕西银龄频道" start="20260824232300 +0800" stop="20260825000100 +0800">
         <title lang="zh">长安故事 剧说那些事儿</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825000200 +0800" stop="20260825003200 +0800">
+    <programme channel="陕西银龄频道" start="20260825000100 +0800" stop="20260825003100 +0800">
         <title lang="zh">怀旧剧场：虎刺红</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825003200 +0800" stop="20260825010200 +0800">
+    <programme channel="陕西银龄频道" start="20260825003100 +0800" stop="20260825010100 +0800">
         <title lang="zh">怀旧剧场：虎刺红</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825010200 +0800" stop="20260825013200 +0800">
+    <programme channel="陕西银龄频道" start="20260825010100 +0800" stop="20260825013100 +0800">
         <title lang="zh">怀旧剧场：虎刺红</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825013200 +0800" stop="20260825020200 +0800">
+    <programme channel="陕西银龄频道" start="20260825013100 +0800" stop="20260825020100 +0800">
         <title lang="zh">怀旧剧场：虎刺红</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825020200 +0800" stop="20260825024200 +0800">
+    <programme channel="陕西银龄频道" start="20260825020100 +0800" stop="20260825024100 +0800">
         <title lang="zh">专题节目五</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825024200 +0800" stop="20260825031200 +0800">
+    <programme channel="陕西银龄频道" start="20260825024100 +0800" stop="20260825031100 +0800">
         <title lang="zh">都市碎戏（银龄版）</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825031200 +0800" stop="20260825034200 +0800">
+    <programme channel="陕西银龄频道" start="20260825031100 +0800" stop="20260825034100 +0800">
         <title lang="zh">都市碎戏（银龄版）</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825034200 +0800" stop="20260825042800 +0800">
+    <programme channel="陕西银龄频道" start="20260825034100 +0800" stop="20260825042700 +0800">
         <title lang="zh">专题节目六</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825042800 +0800" stop="20260825045000 +0800">
+    <programme channel="陕西银龄频道" start="20260825042700 +0800" stop="20260825044900 +0800">
         <title lang="zh">银龄快报帮</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825045000 +0800" stop="20260825052000 +0800">
+    <programme channel="陕西银龄频道" start="20260825044900 +0800" stop="20260825051900 +0800">
         <title lang="zh">好管家</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825052000 +0800" stop="20260825053000 +0800">
+    <programme channel="陕西银龄频道" start="20260825051900 +0800" stop="20260825053400 +0800">
+        <title lang="zh">银龄练起来</title>
+    </programme>
+    <programme channel="陕西银龄频道" start="20260825053400 +0800" stop="20260825054400 +0800">
         <title lang="zh">朗读者（银龄版）</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825053000 +0800" stop="20260825053500 +0800">
+    <programme channel="陕西银龄频道" start="20260825054400 +0800" stop="20260825054900 +0800">
         <title lang="zh">陕西故事</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825053500 +0800" stop="20260825060600 +0800">
+    <programme channel="陕西银龄频道" start="20260825054900 +0800" stop="20260825062000 +0800">
         <title lang="zh">袁博说戏（30分钟版）</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825060600 +0800" stop="20260825064100 +0800">
+    <programme channel="陕西银龄频道" start="20260825062000 +0800" stop="20260825065500 +0800">
         <title lang="zh">袁博说戏（30分钟版）</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825064100 +0800" stop="20260825071100 +0800">
+    <programme channel="陕西银龄频道" start="20260825065500 +0800" stop="20260825072500 +0800">
         <title lang="zh">经典剧场：爱国者</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825071100 +0800" stop="20260825075100 +0800">
+    <programme channel="陕西银龄频道" start="20260825072500 +0800" stop="20260825080500 +0800">
         <title lang="zh">专题节目七</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825075100 +0800" stop="20260825082100 +0800">
+    <programme channel="陕西银龄频道" start="20260825080500 +0800" stop="20260825083500 +0800">
         <title lang="zh">经典剧场：爱国者</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825082100 +0800" stop="20260825091900 +0800">
+    <programme channel="陕西银龄频道" start="20260825083500 +0800" stop="20260825093300 +0800">
         <title lang="zh">专题节目八</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825091900 +0800" stop="20260825094900 +0800">
+    <programme channel="陕西银龄频道" start="20260825093300 +0800" stop="20260825100300 +0800">
         <title lang="zh">好管家</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825094900 +0800" stop="20260825102900 +0800">
+    <programme channel="陕西银龄频道" start="20260825100300 +0800" stop="20260825104300 +0800">
         <title lang="zh">专题节目十一</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825102900 +0800" stop="20260825103000 +0800">
-        <title lang="zh">银龄剧场：烟火人家</title>
+    <programme channel="陕西银龄频道" start="20260825104300 +0800" stop="20260825104400 +0800">
+        <title lang="zh">银龄剧场：三大队</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825103000 +0800" stop="20260825111200 +0800">
-        <title lang="zh">银龄剧场：烟火人家</title>
+    <programme channel="陕西银龄频道" start="20260825104400 +0800" stop="20260825112600 +0800">
+        <title lang="zh">银龄剧场：三大队</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825111200 +0800" stop="20260825112400 +0800">
-        <title lang="zh">银龄剧场：烟火人家</title>
+    <programme channel="陕西银龄频道" start="20260825112600 +0800" stop="20260825113100 +0800">
+        <title lang="zh">银龄剧场：三大队</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825112400 +0800" stop="20260825112600 +0800">
-        <title lang="zh">银龄剧场：烟火人家</title>
+    <programme channel="陕西银龄频道" start="20260825113100 +0800" stop="20260825113300 +0800">
+        <title lang="zh">银龄剧场：三大队</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825112600 +0800" stop="20260825120700 +0800">
-        <title lang="zh">银龄剧场：烟火人家</title>
+    <programme channel="陕西银龄频道" start="20260825113300 +0800" stop="20260825121400 +0800">
+        <title lang="zh">银龄剧场：三大队</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825120700 +0800" stop="20260825122000 +0800">
-        <title lang="zh">银龄剧场：烟火人家</title>
+    <programme channel="陕西银龄频道" start="20260825121400 +0800" stop="20260825122000 +0800">
+        <title lang="zh">银龄剧场：三大队</title>
     </programme>
     <programme channel="陕西银龄频道" start="20260825122000 +0800" stop="20260825124500 +0800">
         <title lang="zh">银龄快报帮</title>
@@ -8358,10 +8361,10 @@
     <programme channel="陕西银龄频道" start="20260825145300 +0800" stop="20260825150600 +0800">
         <title lang="zh">朗读者（银龄版）</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825150600 +0800" stop="20260825153900 +0800">
+    <programme channel="陕西银龄频道" start="20260825150600 +0800" stop="20260825154600 +0800">
         <title lang="zh">长安故事 剧说那些事儿</title>
     </programme>
-    <programme channel="陕西银龄频道" start="20260825153900 +0800" stop="20260825160000 +0800">
+    <programme channel="陕西银龄频道" start="20260825154600 +0800" stop="20260825160000 +0800">
         <title lang="zh">长安故事 剧说那些事儿</title>
     </programme>
     <channel id="陕西都市青春频道">
