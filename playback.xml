@@ -729,20 +729,20 @@
     <programme channel="CCTV7国防军事" start="20260919120300 +0800" stop="20260919120930 +0800">
         <title lang="zh">国防微视频-军歌嘹亮-光荣奔赴（2026）</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20260919120930 +0800" stop="20260919124500 +0800">
+    <programme channel="CCTV7国防军事" start="20260919120930 +0800" stop="20260919123930 +0800">
         <title lang="zh">防务新观察-2026-262</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20260919124500 +0800" stop="20260919135315 +0800">
+    <programme channel="CCTV7国防军事" start="20260919123930 +0800" stop="20260919131500 +0800">
+        <title lang="zh">兵器面面观-2026-163</title>
+    </programme>
+    <programme channel="CCTV7国防军事" start="20260919131500 +0800" stop="20260919142845 +0800">
+        <title lang="zh">国防公开课（2026）-第26个全民国防教育日特别节目</title>
+    </programme>
+    <programme channel="CCTV7国防军事" start="20260919142845 +0800" stop="20260919153315 +0800">
         <title lang="zh">老兵你好-2026-38</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20260919135315 +0800" stop="20260919144345 +0800">
+    <programme channel="CCTV7国防军事" start="20260919153315 +0800" stop="20260919155900 +0800">
         <title lang="zh">潜行者27/37</title>
-    </programme>
-    <programme channel="CCTV7国防军事" start="20260919144345 +0800" stop="20260919154015 +0800">
-        <title lang="zh">潜行者28/37</title>
-    </programme>
-    <programme channel="CCTV7国防军事" start="20260919154015 +0800" stop="20260919155900 +0800">
-        <title lang="zh">第二战场-2026-38</title>
     </programme>
     <channel id="CCTV8电视剧">
         <display-name lang="zh">CCTV8电视剧</display-name>
@@ -1320,13 +1320,13 @@
     <programme channel="CCTV13新闻" start="20260919130000 +0800" stop="20260919133000 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260919133000 +0800" stop="20260919141500 +0800">
+    <programme channel="CCTV13新闻" start="20260919133000 +0800" stop="20260919141100 +0800">
         <title lang="zh">新闻调查</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260919141500 +0800" stop="20260919150000 +0800">
+    <programme channel="CCTV13新闻" start="20260919141100 +0800" stop="20260919145600 +0800">
         <title lang="zh">新闻周刊</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260919150000 +0800" stop="20260919155900 +0800">
+    <programme channel="CCTV13新闻" start="20260919145600 +0800" stop="20260919155900 +0800">
         <title lang="zh">24小时</title>
     </programme>
     <channel id="CCTV14少儿">
