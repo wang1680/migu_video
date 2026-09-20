@@ -483,10 +483,10 @@
     <programme channel="CCTV5体育" start="20260920101500 +0800" stop="20260920111500 +0800">
         <title lang="zh">录像：2026年亚运会 乒乓球女团 中国-尼泊尔</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260920111500 +0800" stop="20260920133000 +0800">
+    <programme channel="CCTV5体育" start="20260920111500 +0800" stop="20260920131500 +0800">
         <title lang="zh">录像：2026年亚运会 女排1/4决赛：中国-越南</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260920133000 +0800" stop="20260920141500 +0800">
+    <programme channel="CCTV5体育" start="20260920131500 +0800" stop="20260920141500 +0800">
         <title lang="zh">体育世界-全景亚运</title>
     </programme>
     <programme channel="CCTV5体育" start="20260920141500 +0800" stop="20260920155900 +0800">
@@ -3849,7 +3849,7 @@
     <programme channel="广东卫视" start="20260920110000 +0800" stop="20260920114000 +0800">
         <title lang="zh">转播中央台新闻联播</title>
     </programme>
-    <programme channel="广东卫视" start="20260920114000 +0800" stop="20260920160000 +0800">
+    <programme channel="广东卫视" start="20260920114000 +0800" stop="20260920162000 +0800">
         <title lang="zh">“湾区升明月”2026大湾区电影音乐晚会</title>
     </programme>
     <channel id="北京卫视">
@@ -9732,7 +9732,7 @@
     <programme channel="南方影视" start="20260920104500 +0800" stop="20260920144500 +0800">
         <title lang="zh">剧无霸剧场:飞哥大英雄(35-39)</title>
     </programme>
-    <programme channel="南方影视" start="20260920144500 +0800" stop="20260920160000 +0800">
+    <programme channel="南方影视" start="20260920144500 +0800" stop="20260920163000 +0800">
         <title lang="zh">剧无霸经典剧场:父亲的身份(24-26)</title>
     </programme>
     <channel id="中国天气">
