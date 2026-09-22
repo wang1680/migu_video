@@ -504,11 +504,14 @@
     <programme channel="CCTV5体育" start="20260922100000 +0800" stop="20260922101500 +0800">
         <title lang="zh">《亚运进行时》</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260922101500 +0800" stop="20260922120000 +0800">
+    <programme channel="CCTV5体育" start="20260922101500 +0800" stop="20260922115600 +0800">
         <title lang="zh">直播：2026年亚运会 女排决赛（中国VS日本）</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260922120000 +0800" stop="20260922133000 +0800">
+    <programme channel="CCTV5体育" start="20260922115600 +0800" stop="20260922130000 +0800">
         <title lang="zh">录像：2026年亚运会 体操女子资格赛/个人全能决赛</title>
+    </programme>
+    <programme channel="CCTV5体育" start="20260922130000 +0800" stop="20260922133000 +0800">
+        <title lang="zh">《亚运典藏》</title>
     </programme>
     <programme channel="CCTV5体育" start="20260922133000 +0800" stop="20260922143500 +0800">
         <title lang="zh">《全景亚运会》</title>
